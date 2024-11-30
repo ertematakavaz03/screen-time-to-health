@@ -6,7 +6,7 @@
 · This is my Term Project for the DSA210 Course of the 2024-2025 Fall Semester.
 
 ## Motivation:
-With the day-by-day increasing advancements in technology, our reliance on digital devices started to affect both health and productivity. This project aims to highlight the relationship between daily iPhone screen time and daily physical activity metrics, such as active energy expenditure and walking/running distance. The goal is to gain information on whether excessive digital device usage has negative effects on my physical activities and overall well-being. By collecting and analyzing data from my iPhone Screen Time feature and Apple Health application, I plan to uncover patterns, correlations, and insights that can guide healthier digital habits.
+With the day-by-day increasing advancements in technology, our reliance on digital devices started to affect our health. This project aims to highlight the relationship between daily screen time and daily physical activity metrics, such as active energy expenditure and walking/running distance. The goal is to gain information on whether excessive digital device usage has negative effects on my physical activities and overall well-being. By collecting and analyzing data from my iPhone Screen Time feature and Apple Health application, I plan to uncover patterns, correlations, and insights that can guide healthier digital habits.
 
 
 ## Dataset:
@@ -29,11 +29,11 @@ With the day-by-day increasing advancements in technology, our reliance on digit
 
 ## Project Plan:
 ### 1) Data Collection:
-· Continue to document the Screen Time data of the previous week, every Monday, until the submission date.
+· Continue to document the Screen Time data of the previous week, every Monday, until the submission date, starting from november 4.
 
-· Apple's Health Data doesn't have the same issue since it records a larger range that should be sufficient. Also I will export the data using Apple supported application "Health Auto Export" which can export this data in both JSON and CSV format.
+· Apple's Health Data doesn't have the same issue since it records a larger range that should be sufficient, but I will also record new data weekly. Also I will export the data using Apple supported application "Health Auto Export" which can export this data in both JSON and CSV format.
 
-· Regularly check for inconsistencies and keep my routine lifestyle to avoid biases in the data.
+· Keep my routine lifestyle to avoid biases in the data.
 
 ### 2) Data Management:
 · I will ensure consistency for both the "Screen Time Dataset" and "Health Dataset", which will share common attributes (ex: DD.MM.YYYY) for a more polished relation.
@@ -54,10 +54,10 @@ With the day-by-day increasing advancements in technology, our reliance on digit
 
 · The dates with comparably high or low screen time and corresponding health metrics.
 
-· Check if categories of the apps has effects on physical activity.
+· Check if categories of the apps have effects on physical activity.
 
 ### 5) Data Report:
-· Write a detailled report that collects all the findings, insights, and solutions I have found in a summarized whole.
+· Write a detailed report that collects all the findings, insights, and solutions I have found into a summarized whole.
 
 
 
@@ -69,6 +69,6 @@ With the day-by-day increasing advancements in technology, our reliance on digit
 ### 2) Data Reliability:
 · The accuracy of screen time and health metrics might not be consistent since there could be scenarios that could cause discrepancies. For example "going for a walk without taking my iPhone with me" or "using a laptop instead of my iPhone". 
 
-### 3) Individual Bias:
-· Since this project is an examination of my behavioral reactions, the findings may not be universal to broad populations.
+### 3) Machine Bias:
+· The data I gathered could be incorrect from the interpretation of my device. For example "it may be registered as if I am walking when I'm not, or the opposite".
 
