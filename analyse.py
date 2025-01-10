@@ -4,6 +4,9 @@ import json
 import matplotlib.pyplot as plt
 import seaborn as sns
 from scipy.stats import pearsonr
+import os
+print(os.path.exists("./Data/deadlines.json"))  # Should return True
+print(os.path.exists("./Data/iPhoneScreenTime.json"))  # Should return True
 
 # File paths
 deadlines_path = "./Data/deadlines.json"
