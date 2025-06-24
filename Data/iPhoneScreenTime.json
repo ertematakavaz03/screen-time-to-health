@@ -1,1413 +1,6159 @@
 {
-    "daily_records": [
-        {
-            "date": "2024-11-04",
-            "day": "Monday",
-            "total_screen_time": "4:26:00",
-            "categories": {
-                "social": {
-                    "duration": "1:38:00"
-                },
-                "entertainment": {
-                    "duration": "1:00:00"
-                },
-                "productivity": {
-                    "duration": "0:44:00"
-                }
-            },
-            "most_used_apps": [
-                "WhatsApp",
-                "Swords and Sandals Immortals",
-                "Spotify"
-            ]
-        },
-        {
-            "date": "2024-11-05",
-            "day": "Tuesday",
-            "total_screen_time": "5:59:00",
-            "categories": {
-                "social": {
-                    "duration": "1:57:00"
-                },
-                "entertainment": {
-                    "duration": "1:31:00"
-                },
-                "productivity": {
-                    "duration": "0:25:00"
-                }
-            },
-            "most_used_apps": [
-                "Swords and Sandals Immortals",
-                "WhatsApp",
-                "Safari"
-            ]
-        },
-        {
-            "date": "2024-11-06",
-            "day": "Wednesday",
-            "total_screen_time": "3:15:00",
-            "categories": {
-                "social": {
-                    "duration": "0:44:00"
-                },
-                "entertainment": {
-                    "duration": "0:47:00"
-                },
-                "productivity": {
-                    "duration": "0:26:00"
-                }
-            },
-            "most_used_apps": [
-                "Spotify",
-                "Safari",
-                "Swords and Sandals Immortals"
-            ]
-        },
-        {
-            "date": "2024-11-07",
-            "day": "Thursday",
-            "total_screen_time": "4:17:00",
-            "categories": {
-                "social": {
-                    "duration": "1:41:00"
-                },
-                "entertainment": {
-                    "duration": "1:15:00"
-                },
-                "productivity": {
-                    "duration": "0:16:00"
-                }
-            },
-            "most_used_apps": [
-                "WhatsApp",
-                "Spotify",
-                "Instagram"
-            ]
-        },
-        {
-            "date": "2024-11-08",
-            "day": "Friday",
-            "total_screen_time": "5:48:00",
-            "categories": {
-                "social": {
-                    "duration": "4:00:00"
-                },
-                "entertainment": {
-                    "duration": "0:17:00"
-                },
-                "productivity": {
-                    "duration": "0:13:00"
-                }
-            },
-            "most_used_apps": [
-                "WhatsApp",
-                "Instagram",
-                "Safari"
-            ]
-        },
-        {
-            "date": "2024-11-09",
-            "day": "Saturday",
-            "total_screen_time": "3:49:00",
-            "categories": {
-                "social": {
-                    "duration": "1:27:00"
-                },
-                "entertainment": {
-                    "duration": "0:47:00"
-                },
-                "productivity": {
-                    "duration": "0:18:00"
-                }
-            },
-            "most_used_apps": [
-                "WhatsApp",
-                "Swords and Sandals Immortals",
-                "Instagram"
-            ]
-        },
-        {
-            "date": "2024-11-10",
-            "day": "Sunday",
-            "total_screen_time": "7:53:00",
-            "categories": {
-                "social": {
-                    "duration": "1:36:00"
-                },
-                "entertainment": {
-                    "duration": "0:13:00"
-                },
-                "productivity": {
-                    "duration": "2:23:00"
-                }
-            },
-            "most_used_apps": [
-                "Gmail",
-                "WhatsApp",
-                "Safari"
-            ]
-        },
-        {
-            "date": "2024-11-11",
-            "day": "Monday",
-            "total_screen_time": "4:36:00",
-            "categories": {
-                "social": {
-                    "duration": "1:50:00"
-                },
-                "entertainment": {
-                    "duration": "0:37:00"
-                },
-                "productivity": {
-                    "duration": "0:24:00"
-                }
-            },
-            "most_used_apps": [
-                "Safari",
-                "Instagram",
-                "WhatsApp"
-            ]
-        },
-        {
-            "date": "2024-11-12",
-            "day": "Tuesday",
-            "total_screen_time": "3:20:00",
-            "categories": {
-                "social": {
-                    "duration": "1:12:00"
-                },
-                "entertainment": {
-                    "duration": "1:04:00"
-                },
-                "productivity": {
-                    "duration": "0:04:00"
-                }
-            },
-            "most_used_apps": [
-                "ChatGPT",
-                "Instagram",
-                "WhatsApp"
-            ]
-        },
-        {
-            "date": "2024-11-13",
-            "day": "Wednesday",
-            "total_screen_time": "6:36:00",
-            "categories": {
-                "social": {
-                    "duration": "2:06:00"
-                },
-                "entertainment": {
-                    "duration": "1:14:00"
-                },
-                "productivity": {
-                    "duration": "1:01:00"
-                }
-            },
-            "most_used_apps": [
-                "Swords and Sandals Immortals",
-                "Instagram",
-                "WhatsApp"
-            ]
-        },
-        {
-            "date": "2024-11-14",
-            "day": "Thursday",
-            "total_screen_time": "4:12:00",
-            "categories": {
-                "social": {
-                    "duration": "1:57:00"
-                },
-                "entertainment": {
-                    "duration": "0:24:00"
-                },
-                "productivity": {
-                    "duration": "0:10:00"
-                }
-            },
-            "most_used_apps": [
-                "WhatsApp",
-                "Instagram",
-                "Snapchat"
-            ]
-        },
-        {
-            "date": "2024-11-15",
-            "day": "Friday",
-            "total_screen_time": "4:26:00",
-            "categories": {
-                "social": {
-                    "duration": "2:24:00"
-                },
-                "entertainment": {
-                    "duration": "0:10:00"
-                },
-                "productivity": {
-                    "duration": "0:11:00"
-                }
-            },
-            "most_used_apps": [
-                "WhatsApp",
-                "Instagram",
-                "Safari"
-            ]
-        },
-        {
-            "date": "2024-11-16",
-            "day": "Saturday",
-            "total_screen_time": "5:30:00",
-            "categories": {
-                "social": {
-                    "duration": "2:01:00"
-                },
-                "entertainment": {
-                    "duration": "1:33:00"
-                },
-                "productivity": {
-                    "duration": "0:06:00"
-                }
-            },
-            "most_used_apps": [
-                "WhatsApp",
-                "Safari",
-                "Spotify"
-            ]
-        },
-        {
-            "date": "2024-11-17",
-            "day": "Sunday",
-            "total_screen_time": "6:40:00",
-            "categories": {
-                "social": {
-                    "duration": "2:54:00"
-                },
-                "entertainment": {
-                    "duration": "1:11:00"
-                },
-                "productivity": {
-                    "duration": "0:10:00"
-                }
-            },
-            "most_used_apps": [
-                "WhatsApp",
-                "Spotify",
-                "Safari"
-            ]
-        },
-        {
-            "date": "2024-11-18",
-            "day": "Monday",
-            "total_screen_time": "5:08:00",
-            "categories": {
-                "social": {
-                    "duration": "1:18:00"
-                },
-                "entertainment": {
-                    "duration": "1:51:00"
-                },
-                "productivity": {
-                    "duration": "0:06:00"
-                }
-            },
-            "most_used_apps": [
-                "Spotify",
-                "WhatsApp",
-                "YouTube"
-            ]
-        },
-        {
-            "date": "2024-11-19",
-            "day": "Tuesday",
-            "total_screen_time": "5:47:00",
-            "categories": {
-                "social": {
-                    "duration": "2:44:00"
-                },
-                "entertainment": {
-                    "duration": "0:59:00"
-                },
-                "productivity": {
-                    "duration": "0:32:00"
-                }
-            },
-            "most_used_apps": [
-                "WhatsApp",
-                "Instagram",
-                "Spotify"
-            ]
-        },
-        {
-            "date": "2024-11-20",
-            "day": "Wednesday",
-            "total_screen_time": "5:33:00",
-            "categories": {
-                "social": {
-                    "duration": "3:51:00"
-                },
-                "entertainment": {
-                    "duration": "0:06:00"
-                },
-                "productivity": {
-                    "duration": "0:25:00"
-                }
-            },
-            "most_used_apps": [
-                "WhatsApp",
-                "Instagram",
-                "Notlar"
-            ]
-        },
-        {
-            "date": "2024-11-21",
-            "day": "Thursday",
-            "total_screen_time": "4:53:00",
-            "categories": {
-                "social": {
-                    "duration": "2:24:00"
-                },
-                "entertainment": {
-                    "duration": "1:07:00"
-                },
-                "productivity": {
-                    "duration": "0:45:00"
-                }
-            },
-            "most_used_apps": [
-                "WhatsApp",
-                "Safari",
-                "ChatGPT"
-            ]
-        },
-        {
-            "date": "2024-11-22",
-            "day": "Friday",
-            "total_screen_time": "4:07:00",
-            "categories": {
-                "social": {
-                    "duration": "2:56:00"
-                },
-                "entertainment": {
-                    "duration": "0:14:00"
-                },
-                "productivity": {
-                    "duration": "0:06:00"
-                }
-            },
-            "most_used_apps": [
-                "WhatsApp",
-                "Instagram",
-                "MySU+"
-            ]
-        },
-        {
-            "date": "2024-11-23",
-            "day": "Saturday",
-            "total_screen_time": "5:35:00",
-            "categories": {
-                "social": {
-                    "duration": "1:47:00"
-                },
-                "entertainment": {
-                    "duration": "0:23:00"
-                },
-                "productivity": {
-                    "duration": "0:11:00"
-                }
-            },
-            "most_used_apps": [
-                "Instagram",
-                "WhatsApp",
-                "Safari"
-            ]
-        },
-        {
-            "date": "2024-11-24",
-            "day": "Sunday",
-            "total_screen_time": "7:17:00",
-            "categories": {
-                "social": {
-                    "duration": "3:18:00"
-                },
-                "entertainment": {
-                    "duration": "1:35:00"
-                },
-                "productivity": {
-                    "duration": "0:25:00"
-                }
-            },
-            "most_used_apps": [
-                "Gmail",
-                "WhatsApp",
-                "Safari"
-            ]
-        },
-        {
-            "date": "2024-11-25",
-            "day": "Monday",
-            "total_screen_time": "5:31:00",
-            "categories": {
-                "social": {
-                    "duration": "4:00:00"
-                },
-                "entertainment": {
-                    "duration": "0:27:00"
-                },
-                "productivity": {
-                    "duration": "0:13:00"
-                }
-            },
-            "most_used_apps": [
-                "WhatsApp",
-                "Instagram",
-                "Netflix"
-            ]
-        },
-        {
-            "date": "2024-11-26",
-            "day": "Tuesday",
-            "total_screen_time": "3:34:00",
-            "categories": {
-                "social": {
-                    "duration": "1:35:00"
-                },
-                "entertainment": {
-                    "duration": "0:24:00"
-                },
-                "productivity": {
-                    "duration": "0:17:00"
-                }
-            },
-            "most_used_apps": [
-                "Instagram",
-                "Safari",
-                "Snapchat"
-            ]
-        },
-        {
-            "date": "2024-11-27",
-            "day": "Wednesday",
-            "total_screen_time": "2:19:00",
-            "categories": {
-                "social": {
-                    "duration": "1:11:00"
-                },
-                "entertainment": {
-                    "duration": "0:10:00"
-                },
-                "productivity": {
-                    "duration": "0:10:00"
-                }
-            },
-            "most_used_apps": [
-                "WhatsApp",
-                "Instagram",
-                "Notlar"
-            ]
-        },
-        {
-            "date": "2024-11-28",
-            "day": "Thursday",
-            "total_screen_time": "5:37:00",
-            "categories": {
-                "social": {
-                    "duration": "2:31:00"
-                },
-                "entertainment": {
-                    "duration": "0:26:00"
-                },
-                "productivity": {
-                    "duration": "0:36:00"
-                }
-            },
-            "most_used_apps": [
-                "WhatsApp",
-                "Safari",
-                "Harita"
-            ]
-        },
-        {
-            "date": "2024-11-29",
-            "day": "Friday",
-            "total_screen_time": "5:27:00",
-            "categories": {
-                "social": {
-                    "duration": "1:45:00"
-                },
-                "entertainment": {
-                    "duration": "0:16:00"
-                },
-                "productivity": {
-                    "duration": "0:37:00"
-                }
-            },
-            "most_used_apps": [
-                "Safari",
-                "WhatsApp",
-                "ChatGPT"
-            ]
-        },
-        {
-            "date": "2024-11-30",
-            "day": "Saturday",
-            "total_screen_time": "3:23:00",
-            "categories": {
-                "social": {
-                    "duration": "1:58:00"
-                },
-                "entertainment": {
-                    "duration": "0:23:00"
-                },
-                "productivity": {
-                    "duration": "0:05:00"
-                }
-            },
-            "most_used_apps": [
-                "WhatsApp",
-                "Instagram",
-                "GUNCHO"
-            ]
-        },
-        {
-            "date": "2024-12-01",
-            "day": "Sunday",
-            "total_screen_time": "4:37:00",
-            "categories": {
-                "social": "2:46:00",
-                "entertainment": "1:37:00",
-                "productivity": "0:14:00"
-            },
-            "most_used_apps": [
-                "WhatsApp",
-                "Instagram",
-                "YouTube"
-            ]
-        },
-        {
-            "date": "2024-12-02",
-            "day": "Monday",
-            "total_screen_time": "2:54:00",
-            "categories": {
-                "social": "1:34:00",
-                "entertainment": "0:20:00",
-                "productivity": "1:00:00"
-            },
-            "most_used_apps": [
-                "WhatsApp",
-                "Instagram",
-                "MySU+"
-            ]
-        },
-        {
-            "date": "2024-12-03",
-            "day": "Tuesday",
-            "total_screen_time": "5:12:00",
-            "categories": {
-                "social": "3:13:00",
-                "entertainment": "1:26:00",
-                "productivity": "0:33:00"
-            },
-            "most_used_apps": [
-                "WhatsApp",
-                "Netflix",
-                "Safari"
-            ]
-        },
-        {
-            "date": "2024-12-04",
-            "day": "Wednesday",
-            "total_screen_time": "3:47:00",
-            "categories": {
-                "social": "2:31:00",
-                "entertainment": "0:17:00",
-                "productivity": "0:59:00"
-            },
-            "most_used_apps": [
-                "WhatsApp",
-                "Safari",
-                "YouTube"
-            ]
-        },
-        {
-            "date": "2024-12-05",
-            "day": "Thursday",
-            "total_screen_time": "2:23:00",
-            "categories": {
-                "social": "2:07:00",
-                "entertainment": "0:06:00",
-                "productivity": "0:10:00"
-            },
-            "most_used_apps": [
-                "Instagram",
-                "WhatsApp",
-                "YapıKredi Mobil"
-            ]
-        },
-        {
-            "date": "2024-12-06",
-            "day": "Friday",
-            "total_screen_time": "3:17:00",
-            "categories": {
-                "social": "1:43:00",
-                "entertainment": "1:00:00",
-                "productivity": "0:34:00"
-            },
-            "most_used_apps": [
-                "WhatsApp",
-                "Harita",
-                "Snapchat"
-            ]
-        },
-        {
-            "date": "2024-12-07",
-            "day": "Saturday",
-            "total_screen_time": "4:04:00",
-            "categories": {
-                "social": "1:50:00",
-                "entertainment": "0:20:00",
-                "productivity": "2:14:00"
-            },
-            "most_used_apps": [
-                "Harita",
-                "WhatsApp",
-                "ChatGPT"
-            ]
-        },
-        {
-            "date": "2024-12-08",
-            "day": "Sunday",
-            "total_screen_time": "4:17:00",
-            "categories": {
-                "social": "2:23:00",
-                "entertainment": "1:17:00",
-                "productivity": "0:37:00"
-            },
-            "most_used_apps": [
-                "WhatsApp",
-                "GUNCHO",
-                "Instagram"
-            ]
-        },
-        {
-            "date": "2024-12-09",
-            "day": "Monday",
-            "total_screen_time": "3:17:00",
-            "categories": {
-                "social": {
-                    "duration": "1:32:00"
-                },
-                "entertainment": {
-                    "duration": "1:00:00"
-                },
-                "productivity": {
-                    "duration": "0:20:00"
-                }
-            },
-            "most_used_apps": [
-                "WhatsApp",
-                "Instagram",
-                "Safari"
-            ]
-        },
-        {
-            "date": "2024-12-10",
-            "day": "Tuesday",
-            "total_screen_time": "0:58:00",
-            "categories": {
-                "social": {
-                    "duration": "0:31:00"
-                },
-                "entertainment": {
-                    "duration": "0:06:00"
-                },
-                "productivity": {
-                    "duration": "0:21:00"
-                }
-            },
-            "most_used_apps": [
-                "Instagram",
-                "WhatsApp",
-                "Gmail"
-            ]
-        },
-        {
-            "date": "2024-12-11",
-            "day": "Wednesday",
-            "total_screen_time": "3:05:00",
-            "categories": {
-                "social": {
-                    "duration": "1:53:00"
-                },
-                "entertainment": {
-                    "duration": "0:22:00"
-                },
-                "productivity": {
-                    "duration": "0:06:00"
-                }
-            },
-            "most_used_apps": [
-                "WhatsApp",
-                "Instagram",
-                "Safari"
-            ]
-        },
-        {
-            "date": "2024-12-12",
-            "day": "Thursday",
-            "total_screen_time": "3:33:00",
-            "categories": {
-                "social": {
-                    "duration": "1:54:00"
-                },
-                "entertainment": {
-                    "duration": "0:05:00"
-                },
-                "productivity": {
-                    "duration": "0:15:00"
-                }
-            },
-            "most_used_apps": [
-                "WhatsApp",
-                "Safari",
-                "Instagram"
-            ]
-        },
-        {
-            "date": "2024-12-13",
-            "day": "Friday",
-            "total_screen_time": "2:50:00",
-            "categories": {
-                "social": {
-                    "duration": "0:48:00"
-                },
-                "entertainment": {
-                    "duration": "0:15:00"
-                },
-                "productivity": {
-                    "duration": "0:06:00"
-                }
-            },
-            "most_used_apps": [
-                "Safari",
-                "WhatsApp",
-                "Instagram"
-            ]
-        },
-        {
-            "date": "2024-12-14",
-            "day": "Saturday",
-            "total_screen_time": "4:50:00",
-            "categories": {
-                "social": {
-                    "duration": "2:32:00"
-                },
-                "entertainment": {
-                    "duration": "0:57:00"
-                },
-                "productivity": {
-                    "duration": "0:11:00"
-                }
-            },
-            "most_used_apps": [
-                "Instagram",
-                "WhatsApp",
-                "GUNCHO"
-            ]
-        },
-        {
-            "date": "2024-12-15",
-            "day": "Sunday",
-            "total_screen_time": "5:19:00",
-            "categories": {
-                "social": {
-                    "duration": "3:13:00"
-                },
-                "entertainment": {
-                    "duration": "0:23:00"
-                },
-                "productivity": {
-                    "duration": "1:29:00"
-                }
-            },
-            "most_used_apps": [
-                "Harita",
-                "Safari",
-                "WhatsApp"
-            ]
-        },
-        {
-            "date": "2024-12-16",
-            "day": "Monday",
-            "total_screen_time": "5:17:00",
-            "categories": {
-                "social": {
-                    "duration": "2:36:00"
-                },
-                "entertainment": {
-                    "duration": "0:56:00"
-                },
-                "productivity": {
-                    "duration": "0:45:00"
-                }
-            },
-            "most_used_apps": [
-                "Instagram",
-                "WhatsApp",
-                "Safari"
-            ]
-        },
-        {
-            "date": "2024-12-17",
-            "day": "Tuesday",
-            "total_screen_time": "4:19:00",
-            "categories": {
-                "social": {
-                    "duration": "2:36:00"
-                },
-                "entertainment": {
-                    "duration": "0:06:00"
-                },
-                "productivity": {
-                    "duration": "0:22:00"
-                }
-            },
-            "most_used_apps": [
-                "WhatsApp",
-                "Instagram",
-                "Snapchat"
-            ]
-        },
-        {
-            "date": "2024-12-18",
-            "day": "Wednesday",
-            "total_screen_time": "4:14:00",
-            "categories": {
-                "social": {
-                    "duration": "1:54:00"
-                },
-                "entertainment": {
-                    "duration": "0:50:00"
-                },
-                "productivity": {
-                    "duration": "0:12:00"
-                }
-            },
-            "most_used_apps": [
-                "Safari",
-                "Instagram",
-                "WhatsApp"
-            ]
-        },
-        {
-            "date": "2024-12-19",
-            "day": "Thursday",
-            "total_screen_time": "3:30:00",
-            "categories": {
-                "social": {
-                    "duration": "1:50:00"
-                },
-                "entertainment": {
-                    "duration": "0:56:00"
-                },
-                "productivity": {
-                    "duration": "0:14:00"
-                }
-            },
-            "most_used_apps": [
-                "Instagram",
-                "WhatsApp",
-                "GUNCHO"
-            ]
-        },
-        {
-            "date": "2024-12-20",
-            "day": "Friday",
-            "total_screen_time": "6:29:00",
-            "categories": {
-                "social": {
-                    "duration": "2:50:00"
-                },
-                "entertainment": {
-                    "duration": "0:41:00"
-                },
-                "productivity": {
-                    "duration": "0:58:00"
-                }
-            },
-            "most_used_apps": [
-                "Fotoğraflar",
-                "Instagram",
-                "WhatsApp"
-            ]
-        },
-        {
-            "date": "2024-12-21",
-            "day": "Saturday",
-            "total_screen_time": "2:32:00",
-            "categories": {
-                "social": {
-                    "duration": "1:50:00"
-                },
-                "entertainment": {
-                    "duration": "0:30:00"
-                },
-                "productivity": {
-                    "duration": "0:12:00"
-                }
-            },
-            "most_used_apps": [
-                "Safari",
-                "Instagram",
-                "Fotoğraflar"
-            ]
-        },
-        {
-            "date": "2024-12-22",
-            "day": "Sunday",
-            "total_screen_time": "3:10:00",
-            "categories": {
-                "social": {
-                    "duration": "1:42:00"
-                },
-                "entertainment": {
-                    "duration": "0:27:00"
-                },
-                "productivity": {
-                    "duration": "0:15:00"
-                }
-            },
-            "most_used_apps": [
-                "Instagram",
-                "WhatsApp",
-                "Notlar"
-            ]
-        },
-        {
-            "date": "2024-12-23",
-            "day": "Monday",
-            "total_screen_time": "6:21:00",
-            "categories": {
-                "social": {
-                    "duration": "2:54:00"
-                },
-                "entertainment": {
-                    "duration": "0:32:00"
-                },
-                "productivity": {
-                    "duration": "0:55:00"
-                }
-            },
-            "most_used_apps": [
-                "WhatsApp",
-                "Instagram",
-                "Safari"
-            ]
-        },
-        {
-            "date": "2024-12-24",
-            "day": "Tuesday",
-            "total_screen_time": "6:17:00",
-            "categories": {
-                "social": {
-                    "duration": "2:46:00"
-                },
-                "entertainment": {
-                    "duration": "1:11:00"
-                },
-                "productivity": {
-                    "duration": "1:01:00"
-                }
-            },
-            "most_used_apps": [
-                "Instagram",
-                "YouTube",
-                "Safari"
-            ]
-        },
-        {
-            "date": "2024-12-25",
-            "day": "Wednesday",
-            "total_screen_time": "2:51:00",
-            "categories": {
-                "social": {
-                    "duration": "1:50:00"
-                },
-                "entertainment": {
-                    "duration": "0:10:00"
-                },
-                "productivity": {
-                    "duration": "0:12:00"
-                }
-            },
-            "most_used_apps": [
-                "WhatsApp",
-                "Safari",
-                "Instagram"
-            ]
-        },
-        {
-            "date": "2024-12-26",
-            "day": "Thursday",
-            "total_screen_time": "3:08:00",
-            "categories": {
-                "social": {
-                    "duration": "1:44:00"
-                },
-                "entertainment": {
-                    "duration": "0:08:00"
-                },
-                "productivity": {
-                    "duration": "0:39:00"
-                }
-            },
-            "most_used_apps": [
-                "Instagram",
-                "WhatsApp",
-                "Spotify"
-            ]
-        },
-        {
-            "date": "2024-12-27",
-            "day": "Friday",
-            "total_screen_time": "2:07:00",
-            "categories": {
-                "social": {
-                    "duration": "0:48:00"
-                },
-                "entertainment": {
-                    "duration": "0:10:00"
-                },
-                "productivity": {
-                    "duration": "0:15:00"
-                }
-            },
-            "most_used_apps": [
-                "Safari",
-                "Instagram",
-                "WhatsApp"
-            ]
-        },
-        {
-            "date": "2024-12-28",
-            "day": "Saturday",
-            "total_screen_time": "6:46:00",
-            "categories": {
-                "social": {
-                    "duration": "4:13:00"
-                },
-                "entertainment": {
-                    "duration": "1:34:00"
-                },
-                "productivity": {
-                    "duration": "0:11:00"
-                }
-            },
-            "most_used_apps": [
-                "Instagram",
-                "WhatsApp",
-                "YouTube"
-            ]
-        },
-        {
-            "date": "2024-12-29",
-            "day": "Sunday",
-            "total_screen_time": "4:06:00",
-            "categories": {
-                "social": {
-                    "duration": "2:46:00"
-                },
-                "entertainment": {
-                    "duration": "1:21:00"
-                },
-                "productivity": {
-                    "duration": "0:08:00"
-                }
-            },
-            "most_used_apps": [
-                "WhatsApp",
-                "Netflix",
-                "Instagram"
-            ]
-        },
-        {
-            "date": "2024-12-30",
-            "day": "Monday",
-            "total_screen_time": "4:29:00",
-            "categories": {
-                "social": {
-                    "duration": "2:25:00"
-                },
-                "entertainment": {
-                    "duration": "1:13:00"
-                },
-                "productivity": {
-                    "duration": "0:51:00"
-                }
-            },
-            "most_used_apps": [
-                "WhatsApp",
-                "GUNCHO",
-                "Instagram"
-            ]
-        },
-        {
-            "date": "2024-12-31",
-            "day": "Tuesday",
-            "total_screen_time": "4:57:00",
-            "categories": {
-                "social": {
-                    "duration": "2:07:00"
-                },
-                "entertainment": {
-                    "duration": "0:47:00"
-                },
-                "productivity": {
-                    "duration": "0:31:00"
-                }
-            },
-            "most_used_apps": [
-                "WhatsApp",
-                "Instagram",
-                "Fotoğraflar"
-            ]
-        },
-        {
-            "date": "2025-01-01",
-            "day": "Wednesday",
-            "total_screen_time": "5:51:00",
-            "categories": {
-                "social": {
-                    "duration": "3:30:00"
-                },
-                "entertainment": {
-                    "duration": "0:38:00"
-                },
-                "productivity": {
-                    "duration": "0:26:00"
-                }
-            },
-            "most_used_apps": [
-                "WhatsApp",
-                "Instagram",
-                "Safari"
-            ]
-        },
-        {
-            "date": "2025-01-02",
-            "day": "Wednesday",
-            "total_screen_time": "6:20:00",
-            "categories": {
-                "social": {
-                    "duration": "2:47:00"
-                },
-                "entertainment": {
-                    "duration": "0:12:00"
-                },
-                "productivity": {
-                    "duration": "0:02:00"
-                }
-            },
-            "most_used_apps": [
-                "Instagram",
-                "WhatsApp",
-                "Safari"
-            ]
-        },
-        {
-            "date": "2025-01-03",
-            "day": "Thursday",
-            "total_screen_time": "4:03:00",
-            "categories": {
-                "social": {
-                    "duration": "2:09:00"
-                },
-                "entertainment": {
-                    "duration": "0:22:00"
-                },
-                "productivity": {
-                    "duration": "0:07:00"
-                }
-            },
-            "most_used_apps": [
-                "Instagram",
-                "WhatsApp",
-                "Safari"
-            ]
-        },
-        {
-            "date": "2025-01-04",
-            "day": "Friday",
-            "total_screen_time": "7:19:00",
-            "categories": {
-                "social": {
-                    "duration": "3:03:00"
-                },
-                "entertainment": {
-                    "duration": "2:34:00"
-                },
-                "productivity": {
-                    "duration": "0:06:00"
-                }
-            },
-            "most_used_apps": [
-                "WhatsApp",
-                "Youtube",
-                "Instagram"
-            ]
-        },
-        {
-            "date": "2025-01-05",
-            "day": "Saturday",
-            "total_screen_time": "10:02:00",
-            "categories": {
-                "social": {
-                    "duration": "8:46:00"
-                },
-                "entertainment": {
-                    "duration": "4:29:00"
-                },
-                "productivity": {
-                    "duration": "0:02:00"
-                }
-            },
-            "most_used_apps": [
-                "Instagram",
-                "Netflix",
-                "Instagram"
-            ]
-        },
-        {
-            "date": "2025-01-06",
-            "day": "Sunday",
-            "total_screen_time": "10:25:00",
-            "categories": {
-                "social": {
-                    "duration": "3:49:00"
-                },
-                "entertainment": {
-                    "duration": "2:38:00"
-                },
-                "productivity": {
-                    "duration": "0:07:00"
-                }
-            },
-            "most_used_apps": [
-                "Netflix",
-                "Whatsapp",
-                "Youtube"
-            ]
-        },
-        {
-            "date": "2025-01-07",
-            "day": "Sunday",
-            "total_screen_time": "8:51:00",
-            "categories": {
-                "social": {
-                    "duration": "5:19:00"
-                },
-                "entertainment": {
-                    "duration": "1:12:00"
-                },
-                "productivity": {
-                    "duration": "0:17:00"
-                }
-            },
-            "most_used_apps": [
-                "Instagram",
-                "Whatsapp",
-                "Spotify"
-            ]
-        },
-        {
-            "date": "2025-01-08",
-            "day": "Monday",
-            "total_screen_time": "3:40:00",
-            "categories": {
-                "social": {
-                    "duration": "1:13:00"
-                },
-                "entertainment": {
-                    "duration": "0:46:00"
-                },
-                "productivity": {
-                    "duration": "0:16:00"
-                }
-            },
-            "most_used_apps": [
-                "Whatsapp",
-                "YapıKredi Mobil",
-                "Instagram"
-            ]
-        },
-        {
-            "date": "2025-01-09",
-            "day": "Tuesday",
-            "total_screen_time": "4:42:00",
-            "categories": {
-                "social": {
-                    "duration": "2:30:00"
-                },
-                "entertainment": {
-                    "duration": "0:17:00"
-                },
-                "productivity": {
-                    "duration": "0:20:00"
-                }
-            },
-            "most_used_apps": [
-                "WhatsApp",
-                "Safari",
-                "Instagram"
-            ]
-        },
-        {
-            "date": "2025-01-10",
-            "day": "Tuesday",
-            "total_screen_time": "4:23:00",
-            "categories": {
-                "social": {
-                    "duration": "1:35:00"
-                },
-                "entertainment": {
-                    "duration": "0:45:00"
-                },
-                "productivity": {
-                    "duration": "0:11:00"
-                }
-            },
-            "most_used_apps": [
-                "WhatsApp",
-                "MySU+",
-                "Instagram"
-            ]
+  "daily_records": [
+    {
+      "date": "2024-06-06",
+      "day": "Thursday",
+      "total_screen_time": "03:45:51",
+      "categories": {
+        "social": {
+          "duration": "00:00:02"
+        },
+        "entertainment": {
+          "duration": "01:58:21"
+        },
+        "productivity": {
+          "duration": "01:47:28"
         }
-    ],
-    "metadata": {
-        "data_collection_period": {
-            "start_date": "2024-11-04",
-            "end_date": "2025-01-10"
+      }
+    },
+    {
+      "date": "2024-06-07",
+      "day": "Friday",
+      "total_screen_time": "03:19:42",
+      "categories": {
+        "social": {
+          "duration": "00:44:21"
         },
-        "categories": [
-            "Social",
-            "Entertainment",
-            "Productivity"
-        ],
-        "tracked_apps": [
-            "WhatsApp",
-            "Instagram",
-            "Spotify",
-            "Safari",
-            "Gmail",
-            "Swords and Sandals Immortals",
-            "ChatGPT",
-            "Snapchat",
-            "GUNCHO",
-            "Harita",
-            "Netflix",
-            "Fotoğraflar",
-            "YouTube",
-            "Notlar",
-            "YapıKredi Mobil",
-            "MySU+"
-        ]
+        "entertainment": {
+          "duration": "01:14:31"
+        },
+        "productivity": {
+          "duration": "01:20:50"
+        }
+      }
+    },
+    {
+      "date": "2024-06-08",
+      "day": "Saturday",
+      "total_screen_time": "04:35:57",
+      "categories": {
+        "social": {
+          "duration": "03:42:00"
+        },
+        "entertainment": {
+          "duration": "00:36:01"
+        },
+        "productivity": {
+          "duration": "00:17:56"
+        }
+      }
+    },
+    {
+      "date": "2024-06-09",
+      "day": "Sunday",
+      "total_screen_time": "02:30:58",
+      "categories": {
+        "social": {
+          "duration": "00:23:42"
+        },
+        "entertainment": {
+          "duration": "01:43:07"
+        },
+        "productivity": {
+          "duration": "00:24:09"
+        }
+      }
+    },
+    {
+      "date": "2024-06-10",
+      "day": "Monday",
+      "total_screen_time": "05:35:09",
+      "categories": {
+        "social": {
+          "duration": "03:23:52"
+        },
+        "entertainment": {
+          "duration": "01:45:56"
+        },
+        "productivity": {
+          "duration": "00:25:21"
+        }
+      }
+    },
+    {
+      "date": "2024-06-11",
+      "day": "Tuesday",
+      "total_screen_time": "03:49:40",
+      "categories": {
+        "social": {
+          "duration": "01:59:16"
+        },
+        "entertainment": {
+          "duration": "01:36:01"
+        },
+        "productivity": {
+          "duration": "00:14:23"
+        }
+      }
+    },
+    {
+      "date": "2024-06-12",
+      "day": "Wednesday",
+      "total_screen_time": "01:54:30",
+      "categories": {
+        "social": {
+          "duration": "00:57:10"
+        },
+        "entertainment": {
+          "duration": "00:29:48"
+        },
+        "productivity": {
+          "duration": "00:27:32"
+        }
+      }
+    },
+    {
+      "date": "2024-06-13",
+      "day": "Thursday",
+      "total_screen_time": "02:51:14",
+      "categories": {
+        "social": {
+          "duration": "00:11:46"
+        },
+        "entertainment": {
+          "duration": "01:14:54"
+        },
+        "productivity": {
+          "duration": "01:24:34"
+        }
+      }
+    },
+    {
+      "date": "2024-06-14",
+      "day": "Friday",
+      "total_screen_time": "02:11:04",
+      "categories": {
+        "social": {
+          "duration": "00:17:11"
+        },
+        "entertainment": {
+          "duration": "00:38:00"
+        },
+        "productivity": {
+          "duration": "01:15:53"
+        }
+      }
+    },
+    {
+      "date": "2024-06-15",
+      "day": "Saturday",
+      "total_screen_time": "04:00:05",
+      "categories": {
+        "social": {
+          "duration": "00:44:56"
+        },
+        "entertainment": {
+          "duration": "01:30:30"
+        },
+        "productivity": {
+          "duration": "01:44:39"
+        }
+      }
+    },
+    {
+      "date": "2024-06-16",
+      "day": "Sunday",
+      "total_screen_time": "03:45:36",
+      "categories": {
+        "social": {
+          "duration": "03:12:50"
+        },
+        "entertainment": {
+          "duration": "00:11:47"
+        },
+        "productivity": {
+          "duration": "00:20:59"
+        }
+      }
+    },
+    {
+      "date": "2024-06-17",
+      "day": "Monday",
+      "total_screen_time": "04:48:25",
+      "categories": {
+        "social": {
+          "duration": "03:02:05"
+        },
+        "entertainment": {
+          "duration": "00:07:54"
+        },
+        "productivity": {
+          "duration": "01:38:26"
+        }
+      }
+    },
+    {
+      "date": "2024-06-18",
+      "day": "Tuesday",
+      "total_screen_time": "01:23:43",
+      "categories": {
+        "social": {
+          "duration": "01:13:06"
+        },
+        "entertainment": {
+          "duration": "00:09:13"
+        },
+        "productivity": {
+          "duration": "00:01:24"
+        }
+      }
+    },
+    {
+      "date": "2024-06-19",
+      "day": "Wednesday",
+      "total_screen_time": "04:24:14",
+      "categories": {
+        "social": {
+          "duration": "01:04:24"
+        },
+        "entertainment": {
+          "duration": "01:20:55"
+        },
+        "productivity": {
+          "duration": "01:58:55"
+        }
+      }
+    },
+    {
+      "date": "2024-06-20",
+      "day": "Thursday",
+      "total_screen_time": "02:57:46",
+      "categories": {
+        "social": {
+          "duration": "01:23:14"
+        },
+        "entertainment": {
+          "duration": "01:26:19"
+        },
+        "productivity": {
+          "duration": "00:08:13"
+        }
+      }
+    },
+    {
+      "date": "2024-06-21",
+      "day": "Friday",
+      "total_screen_time": "05:28:03",
+      "categories": {
+        "social": {
+          "duration": "03:02:22"
+        },
+        "entertainment": {
+          "duration": "01:05:58"
+        },
+        "productivity": {
+          "duration": "01:19:43"
+        }
+      }
+    },
+    {
+      "date": "2024-06-22",
+      "day": "Saturday",
+      "total_screen_time": "00:51:46",
+      "categories": {
+        "social": {
+          "duration": "00:05:28"
+        },
+        "entertainment": {
+          "duration": "00:06:28"
+        },
+        "productivity": {
+          "duration": "00:39:50"
+        }
+      }
+    },
+    {
+      "date": "2024-06-23",
+      "day": "Sunday",
+      "total_screen_time": "03:00:20",
+      "categories": {
+        "social": {
+          "duration": "01:33:17"
+        },
+        "entertainment": {
+          "duration": "00:35:25"
+        },
+        "productivity": {
+          "duration": "00:51:38"
+        }
+      }
+    },
+    {
+      "date": "2024-06-24",
+      "day": "Monday",
+      "total_screen_time": "03:35:55",
+      "categories": {
+        "social": {
+          "duration": "03:23:31"
+        },
+        "entertainment": {
+          "duration": "00:06:54"
+        },
+        "productivity": {
+          "duration": "00:05:30"
+        }
+      }
+    },
+    {
+      "date": "2024-06-25",
+      "day": "Tuesday",
+      "total_screen_time": "04:22:17",
+      "categories": {
+        "social": {
+          "duration": "02:37:34"
+        },
+        "entertainment": {
+          "duration": "01:21:02"
+        },
+        "productivity": {
+          "duration": "00:23:41"
+        }
+      }
+    },
+    {
+      "date": "2024-06-26",
+      "day": "Wednesday",
+      "total_screen_time": "04:28:59",
+      "categories": {
+        "social": {
+          "duration": "03:30:28"
+        },
+        "entertainment": {
+          "duration": "00:50:48"
+        },
+        "productivity": {
+          "duration": "00:07:43"
+        }
+      }
+    },
+    {
+      "date": "2024-06-27",
+      "day": "Thursday",
+      "total_screen_time": "02:33:21",
+      "categories": {
+        "social": {
+          "duration": "00:16:11"
+        },
+        "entertainment": {
+          "duration": "01:06:22"
+        },
+        "productivity": {
+          "duration": "01:10:48"
+        }
+      }
+    },
+    {
+      "date": "2024-06-28",
+      "day": "Friday",
+      "total_screen_time": "04:26:09",
+      "categories": {
+        "social": {
+          "duration": "03:43:51"
+        },
+        "entertainment": {
+          "duration": "00:07:28"
+        },
+        "productivity": {
+          "duration": "00:34:50"
+        }
+      }
+    },
+    {
+      "date": "2024-06-29",
+      "day": "Saturday",
+      "total_screen_time": "03:22:02",
+      "categories": {
+        "social": {
+          "duration": "01:48:44"
+        },
+        "entertainment": {
+          "duration": "01:14:23"
+        },
+        "productivity": {
+          "duration": "00:18:55"
+        }
+      }
+    },
+    {
+      "date": "2024-06-30",
+      "day": "Sunday",
+      "total_screen_time": "03:11:43",
+      "categories": {
+        "social": {
+          "duration": "01:36:31"
+        },
+        "entertainment": {
+          "duration": "00:30:07"
+        },
+        "productivity": {
+          "duration": "01:05:05"
+        }
+      }
+    },
+    {
+      "date": "2024-07-01",
+      "day": "Monday",
+      "total_screen_time": "05:58:46",
+      "categories": {
+        "social": {
+          "duration": "02:20:21"
+        },
+        "entertainment": {
+          "duration": "01:47:24"
+        },
+        "productivity": {
+          "duration": "01:51:01"
+        }
+      }
+    },
+    {
+      "date": "2024-07-02",
+      "day": "Tuesday",
+      "total_screen_time": "02:44:30",
+      "categories": {
+        "social": {
+          "duration": "00:35:43"
+        },
+        "entertainment": {
+          "duration": "00:17:23"
+        },
+        "productivity": {
+          "duration": "01:51:24"
+        }
+      }
+    },
+    {
+      "date": "2024-07-03",
+      "day": "Wednesday",
+      "total_screen_time": "05:17:14",
+      "categories": {
+        "social": {
+          "duration": "03:27:49"
+        },
+        "entertainment": {
+          "duration": "00:26:25"
+        },
+        "productivity": {
+          "duration": "01:23:00"
+        }
+      }
+    },
+    {
+      "date": "2024-07-04",
+      "day": "Thursday",
+      "total_screen_time": "03:24:45",
+      "categories": {
+        "social": {
+          "duration": "01:52:34"
+        },
+        "entertainment": {
+          "duration": "00:05:40"
+        },
+        "productivity": {
+          "duration": "01:26:31"
+        }
+      }
+    },
+    {
+      "date": "2024-07-05",
+      "day": "Friday",
+      "total_screen_time": "04:04:35",
+      "categories": {
+        "social": {
+          "duration": "02:40:32"
+        },
+        "entertainment": {
+          "duration": "01:18:58"
+        },
+        "productivity": {
+          "duration": "00:05:05"
+        }
+      }
+    },
+    {
+      "date": "2024-07-06",
+      "day": "Saturday",
+      "total_screen_time": "05:05:46",
+      "categories": {
+        "social": {
+          "duration": "03:48:08"
+        },
+        "entertainment": {
+          "duration": "00:20:34"
+        },
+        "productivity": {
+          "duration": "00:57:04"
+        }
+      }
+    },
+    {
+      "date": "2024-07-07",
+      "day": "Sunday",
+      "total_screen_time": "06:03:01",
+      "categories": {
+        "social": {
+          "duration": "03:10:14"
+        },
+        "entertainment": {
+          "duration": "01:23:21"
+        },
+        "productivity": {
+          "duration": "01:29:26"
+        }
+      }
+    },
+    {
+      "date": "2024-07-08",
+      "day": "Monday",
+      "total_screen_time": "06:28:45",
+      "categories": {
+        "social": {
+          "duration": "03:12:30"
+        },
+        "entertainment": {
+          "duration": "01:16:22"
+        },
+        "productivity": {
+          "duration": "01:59:53"
+        }
+      }
+    },
+    {
+      "date": "2024-07-09",
+      "day": "Tuesday",
+      "total_screen_time": "03:55:01",
+      "categories": {
+        "social": {
+          "duration": "02:50:25"
+        },
+        "entertainment": {
+          "duration": "01:00:22"
+        },
+        "productivity": {
+          "duration": "00:04:14"
+        }
+      }
+    },
+    {
+      "date": "2024-07-10",
+      "day": "Wednesday",
+      "total_screen_time": "01:36:10",
+      "categories": {
+        "social": {
+          "duration": "01:04:03"
+        },
+        "entertainment": {
+          "duration": "00:15:11"
+        },
+        "productivity": {
+          "duration": "00:16:56"
+        }
+      }
+    },
+    {
+      "date": "2024-07-11",
+      "day": "Thursday",
+      "total_screen_time": "02:54:54",
+      "categories": {
+        "social": {
+          "duration": "00:03:35"
+        },
+        "entertainment": {
+          "duration": "01:11:11"
+        },
+        "productivity": {
+          "duration": "01:40:08"
+        }
+      }
+    },
+    {
+      "date": "2024-07-12",
+      "day": "Friday",
+      "total_screen_time": "02:53:26",
+      "categories": {
+        "social": {
+          "duration": "01:36:09"
+        },
+        "entertainment": {
+          "duration": "00:04:03"
+        },
+        "productivity": {
+          "duration": "01:13:14"
+        }
+      }
+    },
+    {
+      "date": "2024-07-13",
+      "day": "Saturday",
+      "total_screen_time": "05:14:09",
+      "categories": {
+        "social": {
+          "duration": "02:36:38"
+        },
+        "entertainment": {
+          "duration": "01:17:26"
+        },
+        "productivity": {
+          "duration": "01:20:05"
+        }
+      }
+    },
+    {
+      "date": "2024-07-14",
+      "day": "Sunday",
+      "total_screen_time": "01:15:57",
+      "categories": {
+        "social": {
+          "duration": "00:28:08"
+        },
+        "entertainment": {
+          "duration": "00:44:03"
+        },
+        "productivity": {
+          "duration": "00:03:46"
+        }
+      }
+    },
+    {
+      "date": "2024-07-15",
+      "day": "Monday",
+      "total_screen_time": "06:50:31",
+      "categories": {
+        "social": {
+          "duration": "03:40:22"
+        },
+        "entertainment": {
+          "duration": "01:22:13"
+        },
+        "productivity": {
+          "duration": "01:47:56"
+        }
+      }
+    },
+    {
+      "date": "2024-07-16",
+      "day": "Tuesday",
+      "total_screen_time": "04:05:32",
+      "categories": {
+        "social": {
+          "duration": "02:15:41"
+        },
+        "entertainment": {
+          "duration": "01:46:07"
+        },
+        "productivity": {
+          "duration": "00:03:44"
+        }
+      }
+    },
+    {
+      "date": "2024-07-17",
+      "day": "Wednesday",
+      "total_screen_time": "05:39:20",
+      "categories": {
+        "social": {
+          "duration": "03:08:28"
+        },
+        "entertainment": {
+          "duration": "00:53:41"
+        },
+        "productivity": {
+          "duration": "01:37:11"
+        }
+      }
+    },
+    {
+      "date": "2024-07-18",
+      "day": "Thursday",
+      "total_screen_time": "05:12:24",
+      "categories": {
+        "social": {
+          "duration": "01:34:56"
+        },
+        "entertainment": {
+          "duration": "01:37:42"
+        },
+        "productivity": {
+          "duration": "01:59:46"
+        }
+      }
+    },
+    {
+      "date": "2024-07-19",
+      "day": "Friday",
+      "total_screen_time": "03:15:16",
+      "categories": {
+        "social": {
+          "duration": "00:30:19"
+        },
+        "entertainment": {
+          "duration": "01:33:36"
+        },
+        "productivity": {
+          "duration": "01:11:21"
+        }
+      }
+    },
+    {
+      "date": "2024-07-20",
+      "day": "Saturday",
+      "total_screen_time": "05:12:21",
+      "categories": {
+        "social": {
+          "duration": "03:47:36"
+        },
+        "entertainment": {
+          "duration": "01:13:57"
+        },
+        "productivity": {
+          "duration": "00:10:48"
+        }
+      }
+    },
+    {
+      "date": "2024-07-21",
+      "day": "Sunday",
+      "total_screen_time": "02:37:02",
+      "categories": {
+        "social": {
+          "duration": "02:16:56"
+        },
+        "entertainment": {
+          "duration": "00:10:21"
+        },
+        "productivity": {
+          "duration": "00:09:45"
+        }
+      }
+    },
+    {
+      "date": "2024-07-22",
+      "day": "Monday",
+      "total_screen_time": "04:52:08",
+      "categories": {
+        "social": {
+          "duration": "02:49:19"
+        },
+        "entertainment": {
+          "duration": "01:26:06"
+        },
+        "productivity": {
+          "duration": "00:36:43"
+        }
+      }
+    },
+    {
+      "date": "2024-07-23",
+      "day": "Tuesday",
+      "total_screen_time": "03:03:20",
+      "categories": {
+        "social": {
+          "duration": "01:01:18"
+        },
+        "entertainment": {
+          "duration": "00:24:00"
+        },
+        "productivity": {
+          "duration": "01:38:02"
+        }
+      }
+    },
+    {
+      "date": "2024-07-24",
+      "day": "Wednesday",
+      "total_screen_time": "03:50:07",
+      "categories": {
+        "social": {
+          "duration": "01:24:21"
+        },
+        "entertainment": {
+          "duration": "01:28:25"
+        },
+        "productivity": {
+          "duration": "00:57:21"
+        }
+      }
+    },
+    {
+      "date": "2024-07-25",
+      "day": "Thursday",
+      "total_screen_time": "03:05:10",
+      "categories": {
+        "social": {
+          "duration": "01:24:21"
+        },
+        "entertainment": {
+          "duration": "01:07:11"
+        },
+        "productivity": {
+          "duration": "00:33:38"
+        }
+      }
+    },
+    {
+      "date": "2024-07-26",
+      "day": "Friday",
+      "total_screen_time": "06:53:50",
+      "categories": {
+        "social": {
+          "duration": "03:48:58"
+        },
+        "entertainment": {
+          "duration": "01:06:33"
+        },
+        "productivity": {
+          "duration": "01:58:19"
+        }
+      }
+    },
+    {
+      "date": "2024-07-27",
+      "day": "Saturday",
+      "total_screen_time": "02:13:16",
+      "categories": {
+        "social": {
+          "duration": "00:20:18"
+        },
+        "entertainment": {
+          "duration": "01:48:37"
+        },
+        "productivity": {
+          "duration": "00:04:21"
+        }
+      }
+    },
+    {
+      "date": "2024-07-28",
+      "day": "Sunday",
+      "total_screen_time": "02:32:42",
+      "categories": {
+        "social": {
+          "duration": "00:19:05"
+        },
+        "entertainment": {
+          "duration": "01:15:19"
+        },
+        "productivity": {
+          "duration": "00:58:18"
+        }
+      }
+    },
+    {
+      "date": "2024-07-29",
+      "day": "Monday",
+      "total_screen_time": "05:25:37",
+      "categories": {
+        "social": {
+          "duration": "03:14:23"
+        },
+        "entertainment": {
+          "duration": "01:46:23"
+        },
+        "productivity": {
+          "duration": "00:24:51"
+        }
+      }
+    },
+    {
+      "date": "2024-07-30",
+      "day": "Tuesday",
+      "total_screen_time": "03:43:00",
+      "categories": {
+        "social": {
+          "duration": "01:57:31"
+        },
+        "entertainment": {
+          "duration": "01:40:30"
+        },
+        "productivity": {
+          "duration": "00:04:59"
+        }
+      }
+    },
+    {
+      "date": "2024-07-31",
+      "day": "Wednesday",
+      "total_screen_time": "05:22:25",
+      "categories": {
+        "social": {
+          "duration": "01:50:07"
+        },
+        "entertainment": {
+          "duration": "01:34:19"
+        },
+        "productivity": {
+          "duration": "01:57:59"
+        }
+      }
+    },
+    {
+      "date": "2024-08-01",
+      "day": "Thursday",
+      "total_screen_time": "02:29:49",
+      "categories": {
+        "social": {
+          "duration": "01:22:55"
+        },
+        "entertainment": {
+          "duration": "00:11:04"
+        },
+        "productivity": {
+          "duration": "00:55:50"
+        }
+      }
+    },
+    {
+      "date": "2024-08-02",
+      "day": "Friday",
+      "total_screen_time": "03:55:58",
+      "categories": {
+        "social": {
+          "duration": "01:36:13"
+        },
+        "entertainment": {
+          "duration": "00:39:20"
+        },
+        "productivity": {
+          "duration": "01:40:25"
+        }
+      }
+    },
+    {
+      "date": "2024-08-03",
+      "day": "Saturday",
+      "total_screen_time": "02:11:28",
+      "categories": {
+        "social": {
+          "duration": "00:20:39"
+        },
+        "entertainment": {
+          "duration": "01:09:25"
+        },
+        "productivity": {
+          "duration": "00:41:24"
+        }
+      }
+    },
+    {
+      "date": "2024-08-04",
+      "day": "Sunday",
+      "total_screen_time": "03:27:29",
+      "categories": {
+        "social": {
+          "duration": "02:49:46"
+        },
+        "entertainment": {
+          "duration": "00:33:19"
+        },
+        "productivity": {
+          "duration": "00:04:24"
+        }
+      }
+    },
+    {
+      "date": "2024-08-05",
+      "day": "Monday",
+      "total_screen_time": "01:50:21",
+      "categories": {
+        "social": {
+          "duration": "00:08:09"
+        },
+        "entertainment": {
+          "duration": "01:05:47"
+        },
+        "productivity": {
+          "duration": "00:36:25"
+        }
+      }
+    },
+    {
+      "date": "2024-08-06",
+      "day": "Tuesday",
+      "total_screen_time": "04:05:43",
+      "categories": {
+        "social": {
+          "duration": "02:28:08"
+        },
+        "entertainment": {
+          "duration": "01:36:10"
+        },
+        "productivity": {
+          "duration": "00:01:25"
+        }
+      }
+    },
+    {
+      "date": "2024-08-07",
+      "day": "Wednesday",
+      "total_screen_time": "02:19:37",
+      "categories": {
+        "social": {
+          "duration": "00:21:22"
+        },
+        "entertainment": {
+          "duration": "00:46:56"
+        },
+        "productivity": {
+          "duration": "01:11:19"
+        }
+      }
+    },
+    {
+      "date": "2024-08-08",
+      "day": "Thursday",
+      "total_screen_time": "01:10:56",
+      "categories": {
+        "social": {
+          "duration": "00:24:05"
+        },
+        "entertainment": {
+          "duration": "00:44:05"
+        },
+        "productivity": {
+          "duration": "00:02:46"
+        }
+      }
+    },
+    {
+      "date": "2024-08-09",
+      "day": "Friday",
+      "total_screen_time": "02:25:57",
+      "categories": {
+        "social": {
+          "duration": "01:50:17"
+        },
+        "entertainment": {
+          "duration": "00:13:58"
+        },
+        "productivity": {
+          "duration": "00:21:42"
+        }
+      }
+    },
+    {
+      "date": "2024-08-10",
+      "day": "Saturday",
+      "total_screen_time": "04:04:14",
+      "categories": {
+        "social": {
+          "duration": "00:50:48"
+        },
+        "entertainment": {
+          "duration": "01:54:35"
+        },
+        "productivity": {
+          "duration": "01:18:51"
+        }
+      }
+    },
+    {
+      "date": "2024-08-11",
+      "day": "Sunday",
+      "total_screen_time": "03:41:36",
+      "categories": {
+        "social": {
+          "duration": "01:32:08"
+        },
+        "entertainment": {
+          "duration": "01:53:42"
+        },
+        "productivity": {
+          "duration": "00:15:46"
+        }
+      }
+    },
+    {
+      "date": "2024-08-12",
+      "day": "Monday",
+      "total_screen_time": "04:23:54",
+      "categories": {
+        "social": {
+          "duration": "01:37:52"
+        },
+        "entertainment": {
+          "duration": "01:27:37"
+        },
+        "productivity": {
+          "duration": "01:18:25"
+        }
+      }
+    },
+    {
+      "date": "2024-08-13",
+      "day": "Tuesday",
+      "total_screen_time": "05:03:28",
+      "categories": {
+        "social": {
+          "duration": "01:45:38"
+        },
+        "entertainment": {
+          "duration": "01:30:54"
+        },
+        "productivity": {
+          "duration": "01:46:56"
+        }
+      }
+    },
+    {
+      "date": "2024-08-14",
+      "day": "Wednesday",
+      "total_screen_time": "05:57:58",
+      "categories": {
+        "social": {
+          "duration": "02:36:17"
+        },
+        "entertainment": {
+          "duration": "01:40:15"
+        },
+        "productivity": {
+          "duration": "01:41:26"
+        }
+      }
+    },
+    {
+      "date": "2024-08-15",
+      "day": "Thursday",
+      "total_screen_time": "05:18:04",
+      "categories": {
+        "social": {
+          "duration": "03:48:29"
+        },
+        "entertainment": {
+          "duration": "00:11:53"
+        },
+        "productivity": {
+          "duration": "01:17:42"
+        }
+      }
+    },
+    {
+      "date": "2024-08-16",
+      "day": "Friday",
+      "total_screen_time": "02:55:29",
+      "categories": {
+        "social": {
+          "duration": "01:16:18"
+        },
+        "entertainment": {
+          "duration": "00:08:32"
+        },
+        "productivity": {
+          "duration": "01:30:39"
+        }
+      }
+    },
+    {
+      "date": "2024-08-17",
+      "day": "Saturday",
+      "total_screen_time": "04:03:39",
+      "categories": {
+        "social": {
+          "duration": "03:39:19"
+        },
+        "entertainment": {
+          "duration": "00:17:24"
+        },
+        "productivity": {
+          "duration": "00:06:56"
+        }
+      }
+    },
+    {
+      "date": "2024-08-18",
+      "day": "Sunday",
+      "total_screen_time": "03:46:23",
+      "categories": {
+        "social": {
+          "duration": "01:23:13"
+        },
+        "entertainment": {
+          "duration": "00:43:19"
+        },
+        "productivity": {
+          "duration": "01:39:51"
+        }
+      }
+    },
+    {
+      "date": "2024-08-19",
+      "day": "Monday",
+      "total_screen_time": "04:18:19",
+      "categories": {
+        "social": {
+          "duration": "03:00:39"
+        },
+        "entertainment": {
+          "duration": "00:50:55"
+        },
+        "productivity": {
+          "duration": "00:26:45"
+        }
+      }
+    },
+    {
+      "date": "2024-08-20",
+      "day": "Tuesday",
+      "total_screen_time": "05:38:55",
+      "categories": {
+        "social": {
+          "duration": "03:48:44"
+        },
+        "entertainment": {
+          "duration": "00:22:01"
+        },
+        "productivity": {
+          "duration": "01:28:10"
+        }
+      }
+    },
+    {
+      "date": "2024-08-21",
+      "day": "Wednesday",
+      "total_screen_time": "02:49:40",
+      "categories": {
+        "social": {
+          "duration": "01:22:23"
+        },
+        "entertainment": {
+          "duration": "00:42:21"
+        },
+        "productivity": {
+          "duration": "00:44:56"
+        }
+      }
+    },
+    {
+      "date": "2024-08-22",
+      "day": "Thursday",
+      "total_screen_time": "05:57:33",
+      "categories": {
+        "social": {
+          "duration": "03:09:37"
+        },
+        "entertainment": {
+          "duration": "01:17:52"
+        },
+        "productivity": {
+          "duration": "01:30:04"
+        }
+      }
+    },
+    {
+      "date": "2024-08-23",
+      "day": "Friday",
+      "total_screen_time": "03:39:49",
+      "categories": {
+        "social": {
+          "duration": "01:10:41"
+        },
+        "entertainment": {
+          "duration": "01:02:43"
+        },
+        "productivity": {
+          "duration": "01:26:25"
+        }
+      }
+    },
+    {
+      "date": "2024-08-24",
+      "day": "Saturday",
+      "total_screen_time": "05:44:04",
+      "categories": {
+        "social": {
+          "duration": "02:09:13"
+        },
+        "entertainment": {
+          "duration": "01:37:56"
+        },
+        "productivity": {
+          "duration": "01:56:55"
+        }
+      }
+    },
+    {
+      "date": "2024-08-25",
+      "day": "Sunday",
+      "total_screen_time": "05:01:13",
+      "categories": {
+        "social": {
+          "duration": "02:30:00"
+        },
+        "entertainment": {
+          "duration": "01:57:43"
+        },
+        "productivity": {
+          "duration": "00:33:30"
+        }
+      }
+    },
+    {
+      "date": "2024-08-26",
+      "day": "Monday",
+      "total_screen_time": "05:54:13",
+      "categories": {
+        "social": {
+          "duration": "03:36:36"
+        },
+        "entertainment": {
+          "duration": "01:01:42"
+        },
+        "productivity": {
+          "duration": "01:15:55"
+        }
+      }
+    },
+    {
+      "date": "2024-08-27",
+      "day": "Tuesday",
+      "total_screen_time": "04:08:35",
+      "categories": {
+        "social": {
+          "duration": "00:49:15"
+        },
+        "entertainment": {
+          "duration": "01:53:31"
+        },
+        "productivity": {
+          "duration": "01:25:49"
+        }
+      }
+    },
+    {
+      "date": "2024-08-28",
+      "day": "Wednesday",
+      "total_screen_time": "04:33:55",
+      "categories": {
+        "social": {
+          "duration": "02:58:40"
+        },
+        "entertainment": {
+          "duration": "01:02:00"
+        },
+        "productivity": {
+          "duration": "00:33:15"
+        }
+      }
+    },
+    {
+      "date": "2024-08-29",
+      "day": "Thursday",
+      "total_screen_time": "03:41:59",
+      "categories": {
+        "social": {
+          "duration": "00:47:16"
+        },
+        "entertainment": {
+          "duration": "01:44:23"
+        },
+        "productivity": {
+          "duration": "01:10:20"
+        }
+      }
+    },
+    {
+      "date": "2024-08-30",
+      "day": "Friday",
+      "total_screen_time": "02:34:41",
+      "categories": {
+        "social": {
+          "duration": "00:30:37"
+        },
+        "entertainment": {
+          "duration": "01:23:55"
+        },
+        "productivity": {
+          "duration": "00:40:09"
+        }
+      }
+    },
+    {
+      "date": "2024-08-31",
+      "day": "Saturday",
+      "total_screen_time": "04:24:02",
+      "categories": {
+        "social": {
+          "duration": "03:50:39"
+        },
+        "entertainment": {
+          "duration": "00:15:45"
+        },
+        "productivity": {
+          "duration": "00:17:38"
+        }
+      }
+    },
+    {
+      "date": "2024-09-01",
+      "day": "Sunday",
+      "total_screen_time": "03:59:06",
+      "categories": {
+        "social": {
+          "duration": "02:58:39"
+        },
+        "entertainment": {
+          "duration": "00:46:27"
+        },
+        "productivity": {
+          "duration": "00:14:00"
+        }
+      }
+    },
+    {
+      "date": "2024-09-02",
+      "day": "Monday",
+      "total_screen_time": "03:31:45",
+      "categories": {
+        "social": {
+          "duration": "01:06:01"
+        },
+        "entertainment": {
+          "duration": "00:37:07"
+        },
+        "productivity": {
+          "duration": "01:48:37"
+        }
+      }
+    },
+    {
+      "date": "2024-09-03",
+      "day": "Tuesday",
+      "total_screen_time": "03:36:04",
+      "categories": {
+        "social": {
+          "duration": "02:09:37"
+        },
+        "entertainment": {
+          "duration": "00:21:54"
+        },
+        "productivity": {
+          "duration": "01:04:33"
+        }
+      }
+    },
+    {
+      "date": "2024-09-04",
+      "day": "Wednesday",
+      "total_screen_time": "01:54:01",
+      "categories": {
+        "social": {
+          "duration": "00:16:56"
+        },
+        "entertainment": {
+          "duration": "01:32:52"
+        },
+        "productivity": {
+          "duration": "00:04:13"
+        }
+      }
+    },
+    {
+      "date": "2024-09-05",
+      "day": "Thursday",
+      "total_screen_time": "01:54:57",
+      "categories": {
+        "social": {
+          "duration": "01:01:16"
+        },
+        "entertainment": {
+          "duration": "00:07:10"
+        },
+        "productivity": {
+          "duration": "00:46:31"
+        }
+      }
+    },
+    {
+      "date": "2024-09-06",
+      "day": "Friday",
+      "total_screen_time": "06:10:22",
+      "categories": {
+        "social": {
+          "duration": "03:48:55"
+        },
+        "entertainment": {
+          "duration": "00:42:27"
+        },
+        "productivity": {
+          "duration": "01:39:00"
+        }
+      }
+    },
+    {
+      "date": "2024-09-07",
+      "day": "Saturday",
+      "total_screen_time": "04:07:14",
+      "categories": {
+        "social": {
+          "duration": "02:31:36"
+        },
+        "entertainment": {
+          "duration": "00:37:44"
+        },
+        "productivity": {
+          "duration": "00:57:54"
+        }
+      }
+    },
+    {
+      "date": "2024-09-08",
+      "day": "Sunday",
+      "total_screen_time": "04:39:56",
+      "categories": {
+        "social": {
+          "duration": "02:31:15"
+        },
+        "entertainment": {
+          "duration": "01:01:35"
+        },
+        "productivity": {
+          "duration": "01:07:06"
+        }
+      }
+    },
+    {
+      "date": "2024-09-09",
+      "day": "Monday",
+      "total_screen_time": "03:07:14",
+      "categories": {
+        "social": {
+          "duration": "01:06:37"
+        },
+        "entertainment": {
+          "duration": "01:25:14"
+        },
+        "productivity": {
+          "duration": "00:35:23"
+        }
+      }
+    },
+    {
+      "date": "2024-09-10",
+      "day": "Tuesday",
+      "total_screen_time": "02:53:44",
+      "categories": {
+        "social": {
+          "duration": "01:47:36"
+        },
+        "entertainment": {
+          "duration": "00:55:28"
+        },
+        "productivity": {
+          "duration": "00:10:40"
+        }
+      }
+    },
+    {
+      "date": "2024-09-11",
+      "day": "Wednesday",
+      "total_screen_time": "02:43:38",
+      "categories": {
+        "social": {
+          "duration": "02:02:08"
+        },
+        "entertainment": {
+          "duration": "00:21:42"
+        },
+        "productivity": {
+          "duration": "00:19:48"
+        }
+      }
+    },
+    {
+      "date": "2024-09-12",
+      "day": "Thursday",
+      "total_screen_time": "05:20:42",
+      "categories": {
+        "social": {
+          "duration": "03:34:01"
+        },
+        "entertainment": {
+          "duration": "00:32:18"
+        },
+        "productivity": {
+          "duration": "01:14:23"
+        }
+      }
+    },
+    {
+      "date": "2024-09-13",
+      "day": "Friday",
+      "total_screen_time": "04:05:20",
+      "categories": {
+        "social": {
+          "duration": "02:11:32"
+        },
+        "entertainment": {
+          "duration": "01:27:43"
+        },
+        "productivity": {
+          "duration": "00:26:05"
+        }
+      }
+    },
+    {
+      "date": "2024-09-14",
+      "day": "Saturday",
+      "total_screen_time": "03:18:52",
+      "categories": {
+        "social": {
+          "duration": "01:06:52"
+        },
+        "entertainment": {
+          "duration": "01:04:06"
+        },
+        "productivity": {
+          "duration": "01:07:54"
+        }
+      }
+    },
+    {
+      "date": "2024-09-15",
+      "day": "Sunday",
+      "total_screen_time": "04:06:39",
+      "categories": {
+        "social": {
+          "duration": "01:22:50"
+        },
+        "entertainment": {
+          "duration": "01:34:04"
+        },
+        "productivity": {
+          "duration": "01:09:45"
+        }
+      }
+    },
+    {
+      "date": "2024-09-16",
+      "day": "Monday",
+      "total_screen_time": "04:06:25",
+      "categories": {
+        "social": {
+          "duration": "01:35:36"
+        },
+        "entertainment": {
+          "duration": "01:08:54"
+        },
+        "productivity": {
+          "duration": "01:21:55"
+        }
+      }
+    },
+    {
+      "date": "2024-09-17",
+      "day": "Tuesday",
+      "total_screen_time": "03:03:51",
+      "categories": {
+        "social": {
+          "duration": "01:56:59"
+        },
+        "entertainment": {
+          "duration": "00:31:50"
+        },
+        "productivity": {
+          "duration": "00:35:02"
+        }
+      }
+    },
+    {
+      "date": "2024-09-18",
+      "day": "Wednesday",
+      "total_screen_time": "02:19:37",
+      "categories": {
+        "social": {
+          "duration": "00:26:18"
+        },
+        "entertainment": {
+          "duration": "00:01:42"
+        },
+        "productivity": {
+          "duration": "01:51:37"
+        }
+      }
+    },
+    {
+      "date": "2024-09-19",
+      "day": "Thursday",
+      "total_screen_time": "03:14:12",
+      "categories": {
+        "social": {
+          "duration": "02:12:40"
+        },
+        "entertainment": {
+          "duration": "00:49:19"
+        },
+        "productivity": {
+          "duration": "00:12:13"
+        }
+      }
+    },
+    {
+      "date": "2024-09-20",
+      "day": "Friday",
+      "total_screen_time": "04:42:33",
+      "categories": {
+        "social": {
+          "duration": "01:21:06"
+        },
+        "entertainment": {
+          "duration": "01:42:02"
+        },
+        "productivity": {
+          "duration": "01:39:25"
+        }
+      }
+    },
+    {
+      "date": "2024-09-21",
+      "day": "Saturday",
+      "total_screen_time": "03:13:36",
+      "categories": {
+        "social": {
+          "duration": "01:24:26"
+        },
+        "entertainment": {
+          "duration": "01:47:02"
+        },
+        "productivity": {
+          "duration": "00:02:08"
+        }
+      }
+    },
+    {
+      "date": "2024-09-22",
+      "day": "Sunday",
+      "total_screen_time": "04:45:05",
+      "categories": {
+        "social": {
+          "duration": "02:45:25"
+        },
+        "entertainment": {
+          "duration": "00:38:49"
+        },
+        "productivity": {
+          "duration": "01:20:51"
+        }
+      }
+    },
+    {
+      "date": "2024-09-23",
+      "day": "Monday",
+      "total_screen_time": "06:05:15",
+      "categories": {
+        "social": {
+          "duration": "03:39:48"
+        },
+        "entertainment": {
+          "duration": "01:46:47"
+        },
+        "productivity": {
+          "duration": "00:38:40"
+        }
+      }
+    },
+    {
+      "date": "2024-09-24",
+      "day": "Tuesday",
+      "total_screen_time": "01:42:34",
+      "categories": {
+        "social": {
+          "duration": "01:11:37"
+        },
+        "entertainment": {
+          "duration": "00:09:40"
+        },
+        "productivity": {
+          "duration": "00:21:17"
+        }
+      }
+    },
+    {
+      "date": "2024-09-25",
+      "day": "Wednesday",
+      "total_screen_time": "04:28:43",
+      "categories": {
+        "social": {
+          "duration": "01:40:11"
+        },
+        "entertainment": {
+          "duration": "01:59:46"
+        },
+        "productivity": {
+          "duration": "00:48:46"
+        }
+      }
+    },
+    {
+      "date": "2024-09-26",
+      "day": "Thursday",
+      "total_screen_time": "04:57:31",
+      "categories": {
+        "social": {
+          "duration": "03:54:17"
+        },
+        "entertainment": {
+          "duration": "01:01:30"
+        },
+        "productivity": {
+          "duration": "00:01:44"
+        }
+      }
+    },
+    {
+      "date": "2024-09-27",
+      "day": "Friday",
+      "total_screen_time": "04:49:07",
+      "categories": {
+        "social": {
+          "duration": "01:28:44"
+        },
+        "entertainment": {
+          "duration": "01:38:00"
+        },
+        "productivity": {
+          "duration": "01:42:23"
+        }
+      }
+    },
+    {
+      "date": "2024-09-28",
+      "day": "Saturday",
+      "total_screen_time": "04:48:08",
+      "categories": {
+        "social": {
+          "duration": "03:13:16"
+        },
+        "entertainment": {
+          "duration": "01:07:30"
+        },
+        "productivity": {
+          "duration": "00:27:22"
+        }
+      }
+    },
+    {
+      "date": "2024-09-29",
+      "day": "Sunday",
+      "total_screen_time": "05:21:59",
+      "categories": {
+        "social": {
+          "duration": "03:27:24"
+        },
+        "entertainment": {
+          "duration": "00:16:55"
+        },
+        "productivity": {
+          "duration": "01:37:40"
+        }
+      }
+    },
+    {
+      "date": "2024-09-30",
+      "day": "Monday",
+      "total_screen_time": "02:57:14",
+      "categories": {
+        "social": {
+          "duration": "01:47:36"
+        },
+        "entertainment": {
+          "duration": "00:35:04"
+        },
+        "productivity": {
+          "duration": "00:34:34"
+        }
+      }
+    },
+    {
+      "date": "2024-10-01",
+      "day": "Tuesday",
+      "total_screen_time": "03:18:48",
+      "categories": {
+        "social": {
+          "duration": "01:53:48"
+        },
+        "entertainment": {
+          "duration": "00:21:56"
+        },
+        "productivity": {
+          "duration": "01:03:04"
+        }
+      }
+    },
+    {
+      "date": "2024-10-02",
+      "day": "Wednesday",
+      "total_screen_time": "04:04:02",
+      "categories": {
+        "social": {
+          "duration": "02:35:01"
+        },
+        "entertainment": {
+          "duration": "00:40:33"
+        },
+        "productivity": {
+          "duration": "00:48:28"
+        }
+      }
+    },
+    {
+      "date": "2024-10-03",
+      "day": "Thursday",
+      "total_screen_time": "02:52:50",
+      "categories": {
+        "social": {
+          "duration": "01:21:41"
+        },
+        "entertainment": {
+          "duration": "01:14:20"
+        },
+        "productivity": {
+          "duration": "00:16:49"
+        }
+      }
+    },
+    {
+      "date": "2024-10-04",
+      "day": "Friday",
+      "total_screen_time": "01:55:07",
+      "categories": {
+        "social": {
+          "duration": "01:08:39"
+        },
+        "entertainment": {
+          "duration": "00:07:16"
+        },
+        "productivity": {
+          "duration": "00:39:12"
+        }
+      }
+    },
+    {
+      "date": "2024-10-05",
+      "day": "Saturday",
+      "total_screen_time": "03:21:14",
+      "categories": {
+        "social": {
+          "duration": "02:39:53"
+        },
+        "entertainment": {
+          "duration": "00:20:28"
+        },
+        "productivity": {
+          "duration": "00:20:53"
+        }
+      }
+    },
+    {
+      "date": "2024-10-06",
+      "day": "Sunday",
+      "total_screen_time": "04:20:26",
+      "categories": {
+        "social": {
+          "duration": "03:08:32"
+        },
+        "entertainment": {
+          "duration": "01:01:43"
+        },
+        "productivity": {
+          "duration": "00:10:11"
+        }
+      }
+    },
+    {
+      "date": "2024-10-07",
+      "day": "Monday",
+      "total_screen_time": "06:06:35",
+      "categories": {
+        "social": {
+          "duration": "03:10:26"
+        },
+        "entertainment": {
+          "duration": "01:19:22"
+        },
+        "productivity": {
+          "duration": "01:36:47"
+        }
+      }
+    },
+    {
+      "date": "2024-10-08",
+      "day": "Tuesday",
+      "total_screen_time": "02:26:40",
+      "categories": {
+        "social": {
+          "duration": "01:21:37"
+        },
+        "entertainment": {
+          "duration": "01:02:37"
+        },
+        "productivity": {
+          "duration": "00:02:26"
+        }
+      }
+    },
+    {
+      "date": "2024-10-09",
+      "day": "Wednesday",
+      "total_screen_time": "03:04:07",
+      "categories": {
+        "social": {
+          "duration": "00:32:56"
+        },
+        "entertainment": {
+          "duration": "01:27:21"
+        },
+        "productivity": {
+          "duration": "01:03:50"
+        }
+      }
+    },
+    {
+      "date": "2024-10-10",
+      "day": "Thursday",
+      "total_screen_time": "04:40:22",
+      "categories": {
+        "social": {
+          "duration": "03:29:52"
+        },
+        "entertainment": {
+          "duration": "00:34:04"
+        },
+        "productivity": {
+          "duration": "00:36:26"
+        }
+      }
+    },
+    {
+      "date": "2024-10-11",
+      "day": "Friday",
+      "total_screen_time": "06:23:36",
+      "categories": {
+        "social": {
+          "duration": "03:14:50"
+        },
+        "entertainment": {
+          "duration": "01:14:21"
+        },
+        "productivity": {
+          "duration": "01:54:25"
+        }
+      }
+    },
+    {
+      "date": "2024-10-12",
+      "day": "Saturday",
+      "total_screen_time": "05:26:29",
+      "categories": {
+        "social": {
+          "duration": "03:07:13"
+        },
+        "entertainment": {
+          "duration": "01:20:21"
+        },
+        "productivity": {
+          "duration": "00:58:55"
+        }
+      }
+    },
+    {
+      "date": "2024-10-13",
+      "day": "Sunday",
+      "total_screen_time": "04:34:49",
+      "categories": {
+        "social": {
+          "duration": "03:22:12"
+        },
+        "entertainment": {
+          "duration": "01:01:31"
+        },
+        "productivity": {
+          "duration": "00:11:06"
+        }
+      }
+    },
+    {
+      "date": "2024-10-14",
+      "day": "Monday",
+      "total_screen_time": "02:19:52",
+      "categories": {
+        "social": {
+          "duration": "00:58:19"
+        },
+        "entertainment": {
+          "duration": "00:37:20"
+        },
+        "productivity": {
+          "duration": "00:44:13"
+        }
+      }
+    },
+    {
+      "date": "2024-10-15",
+      "day": "Tuesday",
+      "total_screen_time": "06:03:05",
+      "categories": {
+        "social": {
+          "duration": "02:49:20"
+        },
+        "entertainment": {
+          "duration": "01:17:47"
+        },
+        "productivity": {
+          "duration": "01:55:58"
+        }
+      }
+    },
+    {
+      "date": "2024-10-16",
+      "day": "Wednesday",
+      "total_screen_time": "03:22:26",
+      "categories": {
+        "social": {
+          "duration": "02:08:37"
+        },
+        "entertainment": {
+          "duration": "00:45:48"
+        },
+        "productivity": {
+          "duration": "00:28:01"
+        }
+      }
+    },
+    {
+      "date": "2024-10-17",
+      "day": "Thursday",
+      "total_screen_time": "04:19:11",
+      "categories": {
+        "social": {
+          "duration": "02:11:55"
+        },
+        "entertainment": {
+          "duration": "01:21:33"
+        },
+        "productivity": {
+          "duration": "00:45:43"
+        }
+      }
+    },
+    {
+      "date": "2024-10-18",
+      "day": "Friday",
+      "total_screen_time": "06:09:47",
+      "categories": {
+        "social": {
+          "duration": "03:51:50"
+        },
+        "entertainment": {
+          "duration": "01:39:22"
+        },
+        "productivity": {
+          "duration": "00:38:35"
+        }
+      }
+    },
+    {
+      "date": "2024-10-19",
+      "day": "Saturday",
+      "total_screen_time": "04:36:30",
+      "categories": {
+        "social": {
+          "duration": "02:30:58"
+        },
+        "entertainment": {
+          "duration": "00:47:06"
+        },
+        "productivity": {
+          "duration": "01:18:26"
+        }
+      }
+    },
+    {
+      "date": "2024-10-20",
+      "day": "Sunday",
+      "total_screen_time": "05:02:38",
+      "categories": {
+        "social": {
+          "duration": "02:56:22"
+        },
+        "entertainment": {
+          "duration": "01:53:58"
+        },
+        "productivity": {
+          "duration": "00:12:18"
+        }
+      }
+    },
+    {
+      "date": "2024-10-21",
+      "day": "Monday",
+      "total_screen_time": "05:10:44",
+      "categories": {
+        "social": {
+          "duration": "03:00:39"
+        },
+        "entertainment": {
+          "duration": "00:50:56"
+        },
+        "productivity": {
+          "duration": "01:19:09"
+        }
+      }
+    },
+    {
+      "date": "2024-10-22",
+      "day": "Tuesday",
+      "total_screen_time": "04:28:21",
+      "categories": {
+        "social": {
+          "duration": "01:13:34"
+        },
+        "entertainment": {
+          "duration": "01:45:51"
+        },
+        "productivity": {
+          "duration": "01:28:56"
+        }
+      }
+    },
+    {
+      "date": "2024-10-23",
+      "day": "Wednesday",
+      "total_screen_time": "01:59:08",
+      "categories": {
+        "social": {
+          "duration": "01:35:56"
+        },
+        "entertainment": {
+          "duration": "00:15:31"
+        },
+        "productivity": {
+          "duration": "00:07:41"
+        }
+      }
+    },
+    {
+      "date": "2024-10-24",
+      "day": "Thursday",
+      "total_screen_time": "03:26:16",
+      "categories": {
+        "social": {
+          "duration": "00:47:53"
+        },
+        "entertainment": {
+          "duration": "00:40:07"
+        },
+        "productivity": {
+          "duration": "01:58:16"
+        }
+      }
+    },
+    {
+      "date": "2024-10-25",
+      "day": "Friday",
+      "total_screen_time": "05:07:27",
+      "categories": {
+        "social": {
+          "duration": "03:25:31"
+        },
+        "entertainment": {
+          "duration": "01:33:50"
+        },
+        "productivity": {
+          "duration": "00:08:06"
+        }
+      }
+    },
+    {
+      "date": "2024-10-26",
+      "day": "Saturday",
+      "total_screen_time": "05:24:02",
+      "categories": {
+        "social": {
+          "duration": "02:03:39"
+        },
+        "entertainment": {
+          "duration": "01:52:58"
+        },
+        "productivity": {
+          "duration": "01:27:25"
+        }
+      }
+    },
+    {
+      "date": "2024-10-27",
+      "day": "Sunday",
+      "total_screen_time": "02:52:54",
+      "categories": {
+        "social": {
+          "duration": "02:15:38"
+        },
+        "entertainment": {
+          "duration": "00:08:02"
+        },
+        "productivity": {
+          "duration": "00:29:14"
+        }
+      }
+    },
+    {
+      "date": "2024-10-28",
+      "day": "Monday",
+      "total_screen_time": "01:32:59",
+      "categories": {
+        "social": {
+          "duration": "00:25:50"
+        },
+        "entertainment": {
+          "duration": "00:32:52"
+        },
+        "productivity": {
+          "duration": "00:34:17"
+        }
+      }
+    },
+    {
+      "date": "2024-10-29",
+      "day": "Tuesday",
+      "total_screen_time": "02:38:36",
+      "categories": {
+        "social": {
+          "duration": "00:40:27"
+        },
+        "entertainment": {
+          "duration": "00:11:56"
+        },
+        "productivity": {
+          "duration": "01:46:13"
+        }
+      }
+    },
+    {
+      "date": "2024-10-30",
+      "day": "Wednesday",
+      "total_screen_time": "02:12:06",
+      "categories": {
+        "social": {
+          "duration": "00:57:56"
+        },
+        "entertainment": {
+          "duration": "01:06:43"
+        },
+        "productivity": {
+          "duration": "00:07:27"
+        }
+      }
+    },
+    {
+      "date": "2024-10-31",
+      "day": "Thursday",
+      "total_screen_time": "05:37:28",
+      "categories": {
+        "social": {
+          "duration": "02:28:13"
+        },
+        "entertainment": {
+          "duration": "01:37:32"
+        },
+        "productivity": {
+          "duration": "01:31:43"
+        }
+      }
+    },
+    {
+      "date": "2024-11-01",
+      "day": "Friday",
+      "total_screen_time": "05:08:05",
+      "categories": {
+        "social": {
+          "duration": "02:18:26"
+        },
+        "entertainment": {
+          "duration": "01:02:47"
+        },
+        "productivity": {
+          "duration": "01:46:52"
+        }
+      }
+    },
+    {
+      "date": "2024-11-02",
+      "day": "Saturday",
+      "total_screen_time": "04:21:32",
+      "categories": {
+        "social": {
+          "duration": "03:30:14"
+        },
+        "entertainment": {
+          "duration": "00:14:01"
+        },
+        "productivity": {
+          "duration": "00:37:17"
+        }
+      }
+    },
+    {
+      "date": "2024-11-03",
+      "day": "Sunday",
+      "total_screen_time": "03:28:09",
+      "categories": {
+        "social": {
+          "duration": "01:41:40"
+        },
+        "entertainment": {
+          "duration": "00:33:57"
+        },
+        "productivity": {
+          "duration": "01:12:32"
+        }
+      }
+    },
+    {
+      "date": "2024-11-04",
+      "day": "Monday",
+      "total_screen_time": "03:47:04",
+      "categories": {
+        "social": {
+          "duration": "01:31:14"
+        },
+        "entertainment": {
+          "duration": "00:33:26"
+        },
+        "productivity": {
+          "duration": "01:42:24"
+        }
+      }
+    },
+    {
+      "date": "2024-11-05",
+      "day": "Tuesday",
+      "total_screen_time": "05:58:56",
+      "categories": {
+        "social": {
+          "duration": "03:12:27"
+        },
+        "entertainment": {
+          "duration": "01:27:10"
+        },
+        "productivity": {
+          "duration": "01:19:19"
+        }
+      }
+    },
+    {
+      "date": "2024-11-06",
+      "day": "Wednesday",
+      "total_screen_time": "04:21:34",
+      "categories": {
+        "social": {
+          "duration": "01:15:25"
+        },
+        "entertainment": {
+          "duration": "01:57:21"
+        },
+        "productivity": {
+          "duration": "01:08:48"
+        }
+      }
+    },
+    {
+      "date": "2024-11-07",
+      "day": "Thursday",
+      "total_screen_time": "03:51:08",
+      "categories": {
+        "social": {
+          "duration": "01:03:26"
+        },
+        "entertainment": {
+          "duration": "00:52:09"
+        },
+        "productivity": {
+          "duration": "01:55:33"
+        }
+      }
+    },
+    {
+      "date": "2024-11-08",
+      "day": "Friday",
+      "total_screen_time": "06:36:30",
+      "categories": {
+        "social": {
+          "duration": "03:25:12"
+        },
+        "entertainment": {
+          "duration": "01:17:11"
+        },
+        "productivity": {
+          "duration": "01:54:07"
+        }
+      }
+    },
+    {
+      "date": "2024-11-09",
+      "day": "Saturday",
+      "total_screen_time": "04:11:30",
+      "categories": {
+        "social": {
+          "duration": "03:27:43"
+        },
+        "entertainment": {
+          "duration": "00:21:32"
+        },
+        "productivity": {
+          "duration": "00:22:15"
+        }
+      }
+    },
+    {
+      "date": "2024-11-10",
+      "day": "Sunday",
+      "total_screen_time": "04:02:06",
+      "categories": {
+        "social": {
+          "duration": "00:39:10"
+        },
+        "entertainment": {
+          "duration": "01:53:28"
+        },
+        "productivity": {
+          "duration": "01:29:28"
+        }
+      }
+    },
+    {
+      "date": "2024-11-11",
+      "day": "Monday",
+      "total_screen_time": "03:47:46",
+      "categories": {
+        "social": {
+          "duration": "02:56:28"
+        },
+        "entertainment": {
+          "duration": "00:22:52"
+        },
+        "productivity": {
+          "duration": "00:28:26"
+        }
+      }
+    },
+    {
+      "date": "2024-11-12",
+      "day": "Tuesday",
+      "total_screen_time": "05:01:44",
+      "categories": {
+        "social": {
+          "duration": "02:50:39"
+        },
+        "entertainment": {
+          "duration": "00:47:43"
+        },
+        "productivity": {
+          "duration": "01:23:22"
+        }
+      }
+    },
+    {
+      "date": "2024-11-13",
+      "day": "Wednesday",
+      "total_screen_time": "01:54:09",
+      "categories": {
+        "social": {
+          "duration": "00:21:58"
+        },
+        "entertainment": {
+          "duration": "00:14:48"
+        },
+        "productivity": {
+          "duration": "01:17:23"
+        }
+      }
+    },
+    {
+      "date": "2024-11-14",
+      "day": "Thursday",
+      "total_screen_time": "02:02:02",
+      "categories": {
+        "social": {
+          "duration": "01:25:19"
+        },
+        "entertainment": {
+          "duration": "00:04:29"
+        },
+        "productivity": {
+          "duration": "00:32:14"
+        }
+      }
+    },
+    {
+      "date": "2024-11-15",
+      "day": "Friday",
+      "total_screen_time": "04:36:44",
+      "categories": {
+        "social": {
+          "duration": "03:31:11"
+        },
+        "entertainment": {
+          "duration": "00:16:37"
+        },
+        "productivity": {
+          "duration": "00:48:56"
+        }
+      }
+    },
+    {
+      "date": "2024-11-16",
+      "day": "Saturday",
+      "total_screen_time": "02:54:26",
+      "categories": {
+        "social": {
+          "duration": "01:27:58"
+        },
+        "entertainment": {
+          "duration": "00:59:43"
+        },
+        "productivity": {
+          "duration": "00:26:45"
+        }
+      }
+    },
+    {
+      "date": "2024-11-17",
+      "day": "Sunday",
+      "total_screen_time": "02:48:16",
+      "categories": {
+        "social": {
+          "duration": "01:37:39"
+        },
+        "entertainment": {
+          "duration": "00:09:15"
+        },
+        "productivity": {
+          "duration": "01:01:22"
+        }
+      }
+    },
+    {
+      "date": "2024-11-18",
+      "day": "Monday",
+      "total_screen_time": "02:53:39",
+      "categories": {
+        "social": {
+          "duration": "01:02:15"
+        },
+        "entertainment": {
+          "duration": "00:55:07"
+        },
+        "productivity": {
+          "duration": "00:56:17"
+        }
+      }
+    },
+    {
+      "date": "2024-11-19",
+      "day": "Tuesday",
+      "total_screen_time": "05:43:20",
+      "categories": {
+        "social": {
+          "duration": "03:22:33"
+        },
+        "entertainment": {
+          "duration": "01:13:05"
+        },
+        "productivity": {
+          "duration": "01:07:42"
+        }
+      }
+    },
+    {
+      "date": "2024-11-20",
+      "day": "Wednesday",
+      "total_screen_time": "03:34:01",
+      "categories": {
+        "social": {
+          "duration": "01:10:28"
+        },
+        "entertainment": {
+          "duration": "00:57:42"
+        },
+        "productivity": {
+          "duration": "01:25:51"
+        }
+      }
+    },
+    {
+      "date": "2024-11-21",
+      "day": "Thursday",
+      "total_screen_time": "04:12:41",
+      "categories": {
+        "social": {
+          "duration": "01:53:42"
+        },
+        "entertainment": {
+          "duration": "01:47:58"
+        },
+        "productivity": {
+          "duration": "00:31:01"
+        }
+      }
+    },
+    {
+      "date": "2024-11-22",
+      "day": "Friday",
+      "total_screen_time": "04:34:42",
+      "categories": {
+        "social": {
+          "duration": "02:30:07"
+        },
+        "entertainment": {
+          "duration": "00:10:34"
+        },
+        "productivity": {
+          "duration": "01:54:01"
+        }
+      }
+    },
+    {
+      "date": "2024-11-23",
+      "day": "Saturday",
+      "total_screen_time": "02:28:32",
+      "categories": {
+        "social": {
+          "duration": "00:57:57"
+        },
+        "entertainment": {
+          "duration": "00:39:08"
+        },
+        "productivity": {
+          "duration": "00:51:27"
+        }
+      }
+    },
+    {
+      "date": "2024-11-24",
+      "day": "Sunday",
+      "total_screen_time": "05:02:31",
+      "categories": {
+        "social": {
+          "duration": "03:06:36"
+        },
+        "entertainment": {
+          "duration": "01:37:33"
+        },
+        "productivity": {
+          "duration": "00:18:22"
+        }
+      }
+    },
+    {
+      "date": "2024-11-25",
+      "day": "Monday",
+      "total_screen_time": "05:18:13",
+      "categories": {
+        "social": {
+          "duration": "02:40:38"
+        },
+        "entertainment": {
+          "duration": "00:58:53"
+        },
+        "productivity": {
+          "duration": "01:38:42"
+        }
+      }
+    },
+    {
+      "date": "2024-11-26",
+      "day": "Tuesday",
+      "total_screen_time": "04:32:16",
+      "categories": {
+        "social": {
+          "duration": "02:16:44"
+        },
+        "entertainment": {
+          "duration": "00:23:01"
+        },
+        "productivity": {
+          "duration": "01:52:31"
+        }
+      }
+    },
+    {
+      "date": "2024-11-27",
+      "day": "Wednesday",
+      "total_screen_time": "05:02:32",
+      "categories": {
+        "social": {
+          "duration": "03:43:34"
+        },
+        "entertainment": {
+          "duration": "01:00:36"
+        },
+        "productivity": {
+          "duration": "00:18:22"
+        }
+      }
+    },
+    {
+      "date": "2024-11-28",
+      "day": "Thursday",
+      "total_screen_time": "03:29:33",
+      "categories": {
+        "social": {
+          "duration": "00:32:50"
+        },
+        "entertainment": {
+          "duration": "01:50:12"
+        },
+        "productivity": {
+          "duration": "01:06:31"
+        }
+      }
+    },
+    {
+      "date": "2024-11-29",
+      "day": "Friday",
+      "total_screen_time": "02:13:22",
+      "categories": {
+        "social": {
+          "duration": "00:51:01"
+        },
+        "entertainment": {
+          "duration": "00:09:15"
+        },
+        "productivity": {
+          "duration": "01:13:06"
+        }
+      }
+    },
+    {
+      "date": "2024-11-30",
+      "day": "Saturday",
+      "total_screen_time": "01:44:44",
+      "categories": {
+        "social": {
+          "duration": "00:19:41"
+        },
+        "entertainment": {
+          "duration": "00:46:27"
+        },
+        "productivity": {
+          "duration": "00:38:36"
+        }
+      }
+    },
+    {
+      "date": "2024-12-01",
+      "day": "Sunday",
+      "total_screen_time": "05:15:15",
+      "categories": {
+        "social": {
+          "duration": "02:42:54"
+        },
+        "entertainment": {
+          "duration": "01:43:13"
+        },
+        "productivity": {
+          "duration": "00:49:08"
+        }
+      }
+    },
+    {
+      "date": "2024-12-02",
+      "day": "Monday",
+      "total_screen_time": "06:17:47",
+      "categories": {
+        "social": {
+          "duration": "03:08:18"
+        },
+        "entertainment": {
+          "duration": "01:20:57"
+        },
+        "productivity": {
+          "duration": "01:48:32"
+        }
+      }
+    },
+    {
+      "date": "2024-12-03",
+      "day": "Tuesday",
+      "total_screen_time": "04:18:21",
+      "categories": {
+        "social": {
+          "duration": "02:55:00"
+        },
+        "entertainment": {
+          "duration": "01:01:13"
+        },
+        "productivity": {
+          "duration": "00:22:08"
+        }
+      }
+    },
+    {
+      "date": "2024-12-04",
+      "day": "Wednesday",
+      "total_screen_time": "05:53:56",
+      "categories": {
+        "social": {
+          "duration": "03:52:07"
+        },
+        "entertainment": {
+          "duration": "01:23:49"
+        },
+        "productivity": {
+          "duration": "00:38:00"
+        }
+      }
+    },
+    {
+      "date": "2024-12-05",
+      "day": "Thursday",
+      "total_screen_time": "03:39:56",
+      "categories": {
+        "social": {
+          "duration": "01:08:37"
+        },
+        "entertainment": {
+          "duration": "01:32:25"
+        },
+        "productivity": {
+          "duration": "00:58:54"
+        }
+      }
+    },
+    {
+      "date": "2024-12-06",
+      "day": "Friday",
+      "total_screen_time": "05:15:00",
+      "categories": {
+        "social": {
+          "duration": "02:18:48"
+        },
+        "entertainment": {
+          "duration": "01:41:25"
+        },
+        "productivity": {
+          "duration": "01:14:47"
+        }
+      }
+    },
+    {
+      "date": "2024-12-07",
+      "day": "Saturday",
+      "total_screen_time": "06:09:43",
+      "categories": {
+        "social": {
+          "duration": "03:59:20"
+        },
+        "entertainment": {
+          "duration": "01:02:54"
+        },
+        "productivity": {
+          "duration": "01:07:29"
+        }
+      }
+    },
+    {
+      "date": "2024-12-08",
+      "day": "Sunday",
+      "total_screen_time": "04:08:28",
+      "categories": {
+        "social": {
+          "duration": "01:23:52"
+        },
+        "entertainment": {
+          "duration": "01:37:14"
+        },
+        "productivity": {
+          "duration": "01:07:22"
+        }
+      }
+    },
+    {
+      "date": "2024-12-09",
+      "day": "Monday",
+      "total_screen_time": "04:32:35",
+      "categories": {
+        "social": {
+          "duration": "02:33:48"
+        },
+        "entertainment": {
+          "duration": "01:15:34"
+        },
+        "productivity": {
+          "duration": "00:43:13"
+        }
+      }
+    },
+    {
+      "date": "2024-12-10",
+      "day": "Tuesday",
+      "total_screen_time": "04:01:21",
+      "categories": {
+        "social": {
+          "duration": "02:31:17"
+        },
+        "entertainment": {
+          "duration": "00:34:10"
+        },
+        "productivity": {
+          "duration": "00:55:54"
+        }
+      }
+    },
+    {
+      "date": "2024-12-11",
+      "day": "Wednesday",
+      "total_screen_time": "03:56:13",
+      "categories": {
+        "social": {
+          "duration": "01:28:35"
+        },
+        "entertainment": {
+          "duration": "01:53:32"
+        },
+        "productivity": {
+          "duration": "00:34:06"
+        }
+      }
+    },
+    {
+      "date": "2024-12-12",
+      "day": "Thursday",
+      "total_screen_time": "04:18:59",
+      "categories": {
+        "social": {
+          "duration": "02:16:43"
+        },
+        "entertainment": {
+          "duration": "01:17:02"
+        },
+        "productivity": {
+          "duration": "00:45:14"
+        }
+      }
+    },
+    {
+      "date": "2024-12-13",
+      "day": "Friday",
+      "total_screen_time": "03:05:39",
+      "categories": {
+        "social": {
+          "duration": "00:36:49"
+        },
+        "entertainment": {
+          "duration": "00:38:41"
+        },
+        "productivity": {
+          "duration": "01:50:09"
+        }
+      }
+    },
+    {
+      "date": "2024-12-14",
+      "day": "Saturday",
+      "total_screen_time": "03:44:43",
+      "categories": {
+        "social": {
+          "duration": "00:43:39"
+        },
+        "entertainment": {
+          "duration": "01:28:19"
+        },
+        "productivity": {
+          "duration": "01:32:45"
+        }
+      }
+    },
+    {
+      "date": "2024-12-15",
+      "day": "Sunday",
+      "total_screen_time": "04:30:51",
+      "categories": {
+        "social": {
+          "duration": "02:21:27"
+        },
+        "entertainment": {
+          "duration": "00:51:34"
+        },
+        "productivity": {
+          "duration": "01:17:50"
+        }
+      }
+    },
+    {
+      "date": "2024-12-16",
+      "day": "Monday",
+      "total_screen_time": "04:17:23",
+      "categories": {
+        "social": {
+          "duration": "00:30:18"
+        },
+        "entertainment": {
+          "duration": "01:51:54"
+        },
+        "productivity": {
+          "duration": "01:55:11"
+        }
+      }
+    },
+    {
+      "date": "2024-12-17",
+      "day": "Tuesday",
+      "total_screen_time": "04:09:44",
+      "categories": {
+        "social": {
+          "duration": "01:36:42"
+        },
+        "entertainment": {
+          "duration": "01:06:20"
+        },
+        "productivity": {
+          "duration": "01:26:42"
+        }
+      }
+    },
+    {
+      "date": "2024-12-18",
+      "day": "Wednesday",
+      "total_screen_time": "03:16:59",
+      "categories": {
+        "social": {
+          "duration": "02:14:47"
+        },
+        "entertainment": {
+          "duration": "00:58:15"
+        },
+        "productivity": {
+          "duration": "00:03:57"
+        }
+      }
+    },
+    {
+      "date": "2024-12-19",
+      "day": "Thursday",
+      "total_screen_time": "02:29:09",
+      "categories": {
+        "social": {
+          "duration": "00:09:34"
+        },
+        "entertainment": {
+          "duration": "01:17:35"
+        },
+        "productivity": {
+          "duration": "01:02:00"
+        }
+      }
+    },
+    {
+      "date": "2024-12-20",
+      "day": "Friday",
+      "total_screen_time": "04:08:39",
+      "categories": {
+        "social": {
+          "duration": "02:53:14"
+        },
+        "entertainment": {
+          "duration": "00:08:19"
+        },
+        "productivity": {
+          "duration": "01:07:06"
+        }
+      }
+    },
+    {
+      "date": "2024-12-21",
+      "day": "Saturday",
+      "total_screen_time": "03:15:51",
+      "categories": {
+        "social": {
+          "duration": "02:47:40"
+        },
+        "entertainment": {
+          "duration": "00:02:00"
+        },
+        "productivity": {
+          "duration": "00:26:11"
+        }
+      }
+    },
+    {
+      "date": "2024-12-22",
+      "day": "Sunday",
+      "total_screen_time": "05:33:30",
+      "categories": {
+        "social": {
+          "duration": "03:28:12"
+        },
+        "entertainment": {
+          "duration": "01:10:11"
+        },
+        "productivity": {
+          "duration": "00:55:07"
+        }
+      }
+    },
+    {
+      "date": "2024-12-23",
+      "day": "Monday",
+      "total_screen_time": "03:07:17",
+      "categories": {
+        "social": {
+          "duration": "01:20:12"
+        },
+        "entertainment": {
+          "duration": "00:51:39"
+        },
+        "productivity": {
+          "duration": "00:55:26"
+        }
+      }
+    },
+    {
+      "date": "2024-12-24",
+      "day": "Tuesday",
+      "total_screen_time": "04:37:03",
+      "categories": {
+        "social": {
+          "duration": "02:42:12"
+        },
+        "entertainment": {
+          "duration": "01:05:12"
+        },
+        "productivity": {
+          "duration": "00:49:39"
+        }
+      }
+    },
+    {
+      "date": "2024-12-25",
+      "day": "Wednesday",
+      "total_screen_time": "06:46:19",
+      "categories": {
+        "social": {
+          "duration": "03:41:14"
+        },
+        "entertainment": {
+          "duration": "01:47:25"
+        },
+        "productivity": {
+          "duration": "01:17:40"
+        }
+      }
+    },
+    {
+      "date": "2024-12-26",
+      "day": "Thursday",
+      "total_screen_time": "02:46:38",
+      "categories": {
+        "social": {
+          "duration": "00:28:42"
+        },
+        "entertainment": {
+          "duration": "00:27:47"
+        },
+        "productivity": {
+          "duration": "01:50:09"
+        }
+      }
+    },
+    {
+      "date": "2024-12-27",
+      "day": "Friday",
+      "total_screen_time": "02:53:21",
+      "categories": {
+        "social": {
+          "duration": "00:29:13"
+        },
+        "entertainment": {
+          "duration": "01:54:30"
+        },
+        "productivity": {
+          "duration": "00:29:38"
+        }
+      }
+    },
+    {
+      "date": "2024-12-28",
+      "day": "Saturday",
+      "total_screen_time": "05:25:02",
+      "categories": {
+        "social": {
+          "duration": "02:38:32"
+        },
+        "entertainment": {
+          "duration": "01:22:34"
+        },
+        "productivity": {
+          "duration": "01:23:56"
+        }
+      }
+    },
+    {
+      "date": "2024-12-29",
+      "day": "Sunday",
+      "total_screen_time": "04:15:52",
+      "categories": {
+        "social": {
+          "duration": "02:16:33"
+        },
+        "entertainment": {
+          "duration": "00:08:40"
+        },
+        "productivity": {
+          "duration": "01:50:39"
+        }
+      }
+    },
+    {
+      "date": "2024-12-30",
+      "day": "Monday",
+      "total_screen_time": "05:46:15",
+      "categories": {
+        "social": {
+          "duration": "02:53:54"
+        },
+        "entertainment": {
+          "duration": "01:17:33"
+        },
+        "productivity": {
+          "duration": "01:34:48"
+        }
+      }
+    },
+    {
+      "date": "2024-12-31",
+      "day": "Tuesday",
+      "total_screen_time": "03:49:34",
+      "categories": {
+        "social": {
+          "duration": "01:42:10"
+        },
+        "entertainment": {
+          "duration": "01:07:47"
+        },
+        "productivity": {
+          "duration": "00:59:37"
+        }
+      }
+    },
+    {
+      "date": "2025-01-01",
+      "day": "Wednesday",
+      "total_screen_time": "05:45:14",
+      "categories": {
+        "social": {
+          "duration": "03:04:53"
+        },
+        "entertainment": {
+          "duration": "00:44:03"
+        },
+        "productivity": {
+          "duration": "01:56:18"
+        }
+      }
+    },
+    {
+      "date": "2025-01-02",
+      "day": "Thursday",
+      "total_screen_time": "04:32:28",
+      "categories": {
+        "social": {
+          "duration": "01:53:25"
+        },
+        "entertainment": {
+          "duration": "00:52:55"
+        },
+        "productivity": {
+          "duration": "01:46:08"
+        }
+      }
+    },
+    {
+      "date": "2025-01-03",
+      "day": "Friday",
+      "total_screen_time": "01:43:29",
+      "categories": {
+        "social": {
+          "duration": "00:48:53"
+        },
+        "entertainment": {
+          "duration": "00:02:33"
+        },
+        "productivity": {
+          "duration": "00:52:03"
+        }
+      }
+    },
+    {
+      "date": "2025-01-04",
+      "day": "Saturday",
+      "total_screen_time": "01:11:16",
+      "categories": {
+        "social": {
+          "duration": "00:04:25"
+        },
+        "entertainment": {
+          "duration": "00:05:11"
+        },
+        "productivity": {
+          "duration": "01:01:40"
+        }
+      }
+    },
+    {
+      "date": "2025-01-05",
+      "day": "Sunday",
+      "total_screen_time": "02:12:18",
+      "categories": {
+        "social": {
+          "duration": "00:23:13"
+        },
+        "entertainment": {
+          "duration": "01:48:54"
+        },
+        "productivity": {
+          "duration": "00:00:11"
+        }
+      }
+    },
+    {
+      "date": "2025-01-06",
+      "day": "Monday",
+      "total_screen_time": "03:21:25",
+      "categories": {
+        "social": {
+          "duration": "02:36:27"
+        },
+        "entertainment": {
+          "duration": "00:32:01"
+        },
+        "productivity": {
+          "duration": "00:12:57"
+        }
+      }
+    },
+    {
+      "date": "2025-01-07",
+      "day": "Tuesday",
+      "total_screen_time": "06:06:38",
+      "categories": {
+        "social": {
+          "duration": "03:20:46"
+        },
+        "entertainment": {
+          "duration": "01:11:37"
+        },
+        "productivity": {
+          "duration": "01:34:15"
+        }
+      }
+    },
+    {
+      "date": "2025-01-08",
+      "day": "Wednesday",
+      "total_screen_time": "02:23:09",
+      "categories": {
+        "social": {
+          "duration": "01:14:40"
+        },
+        "entertainment": {
+          "duration": "00:51:06"
+        },
+        "productivity": {
+          "duration": "00:17:23"
+        }
+      }
+    },
+    {
+      "date": "2025-01-09",
+      "day": "Thursday",
+      "total_screen_time": "06:16:43",
+      "categories": {
+        "social": {
+          "duration": "03:16:29"
+        },
+        "entertainment": {
+          "duration": "01:03:50"
+        },
+        "productivity": {
+          "duration": "01:56:24"
+        }
+      }
+    },
+    {
+      "date": "2025-01-10",
+      "day": "Friday",
+      "total_screen_time": "05:03:24",
+      "categories": {
+        "social": {
+          "duration": "02:55:15"
+        },
+        "entertainment": {
+          "duration": "00:11:53"
+        },
+        "productivity": {
+          "duration": "01:56:16"
+        }
+      }
+    },
+    {
+      "date": "2025-01-11",
+      "day": "Saturday",
+      "total_screen_time": "05:19:18",
+      "categories": {
+        "social": {
+          "duration": "02:12:45"
+        },
+        "entertainment": {
+          "duration": "01:32:39"
+        },
+        "productivity": {
+          "duration": "01:33:54"
+        }
+      }
+    },
+    {
+      "date": "2025-01-12",
+      "day": "Sunday",
+      "total_screen_time": "05:05:43",
+      "categories": {
+        "social": {
+          "duration": "01:57:34"
+        },
+        "entertainment": {
+          "duration": "01:58:35"
+        },
+        "productivity": {
+          "duration": "01:09:34"
+        }
+      }
+    },
+    {
+      "date": "2025-01-13",
+      "day": "Monday",
+      "total_screen_time": "04:02:31",
+      "categories": {
+        "social": {
+          "duration": "01:28:21"
+        },
+        "entertainment": {
+          "duration": "00:57:54"
+        },
+        "productivity": {
+          "duration": "01:36:16"
+        }
+      }
+    },
+    {
+      "date": "2025-01-14",
+      "day": "Tuesday",
+      "total_screen_time": "04:41:34",
+      "categories": {
+        "social": {
+          "duration": "01:36:01"
+        },
+        "entertainment": {
+          "duration": "01:11:55"
+        },
+        "productivity": {
+          "duration": "01:53:38"
+        }
+      }
+    },
+    {
+      "date": "2025-01-15",
+      "day": "Wednesday",
+      "total_screen_time": "06:05:17",
+      "categories": {
+        "social": {
+          "duration": "03:17:22"
+        },
+        "entertainment": {
+          "duration": "01:22:18"
+        },
+        "productivity": {
+          "duration": "01:25:37"
+        }
+      }
+    },
+    {
+      "date": "2025-01-16",
+      "day": "Thursday",
+      "total_screen_time": "04:10:59",
+      "categories": {
+        "social": {
+          "duration": "01:05:48"
+        },
+        "entertainment": {
+          "duration": "01:53:56"
+        },
+        "productivity": {
+          "duration": "01:11:15"
+        }
+      }
+    },
+    {
+      "date": "2025-01-17",
+      "day": "Friday",
+      "total_screen_time": "03:04:14",
+      "categories": {
+        "social": {
+          "duration": "01:21:39"
+        },
+        "entertainment": {
+          "duration": "01:29:58"
+        },
+        "productivity": {
+          "duration": "00:12:37"
+        }
+      }
+    },
+    {
+      "date": "2025-01-18",
+      "day": "Saturday",
+      "total_screen_time": "04:25:17",
+      "categories": {
+        "social": {
+          "duration": "01:33:47"
+        },
+        "entertainment": {
+          "duration": "00:55:36"
+        },
+        "productivity": {
+          "duration": "01:55:54"
+        }
+      }
+    },
+    {
+      "date": "2025-01-19",
+      "day": "Sunday",
+      "total_screen_time": "04:27:20",
+      "categories": {
+        "social": {
+          "duration": "02:11:16"
+        },
+        "entertainment": {
+          "duration": "00:37:51"
+        },
+        "productivity": {
+          "duration": "01:38:13"
+        }
+      }
+    },
+    {
+      "date": "2025-01-20",
+      "day": "Monday",
+      "total_screen_time": "03:26:13",
+      "categories": {
+        "social": {
+          "duration": "01:47:01"
+        },
+        "entertainment": {
+          "duration": "01:04:12"
+        },
+        "productivity": {
+          "duration": "00:35:00"
+        }
+      }
+    },
+    {
+      "date": "2025-01-21",
+      "day": "Tuesday",
+      "total_screen_time": "02:44:45",
+      "categories": {
+        "social": {
+          "duration": "00:38:16"
+        },
+        "entertainment": {
+          "duration": "01:39:50"
+        },
+        "productivity": {
+          "duration": "00:26:39"
+        }
+      }
+    },
+    {
+      "date": "2025-01-22",
+      "day": "Wednesday",
+      "total_screen_time": "04:26:43",
+      "categories": {
+        "social": {
+          "duration": "01:39:16"
+        },
+        "entertainment": {
+          "duration": "01:57:44"
+        },
+        "productivity": {
+          "duration": "00:49:43"
+        }
+      }
+    },
+    {
+      "date": "2025-01-23",
+      "day": "Thursday",
+      "total_screen_time": "06:41:14",
+      "categories": {
+        "social": {
+          "duration": "03:20:38"
+        },
+        "entertainment": {
+          "duration": "01:23:20"
+        },
+        "productivity": {
+          "duration": "01:57:16"
+        }
+      }
+    },
+    {
+      "date": "2025-01-24",
+      "day": "Friday",
+      "total_screen_time": "01:21:48",
+      "categories": {
+        "social": {
+          "duration": "00:17:34"
+        },
+        "entertainment": {
+          "duration": "00:11:57"
+        },
+        "productivity": {
+          "duration": "00:52:17"
+        }
+      }
+    },
+    {
+      "date": "2025-01-25",
+      "day": "Saturday",
+      "total_screen_time": "03:53:28",
+      "categories": {
+        "social": {
+          "duration": "02:37:05"
+        },
+        "entertainment": {
+          "duration": "01:07:32"
+        },
+        "productivity": {
+          "duration": "00:08:51"
+        }
+      }
+    },
+    {
+      "date": "2025-01-26",
+      "day": "Sunday",
+      "total_screen_time": "02:01:44",
+      "categories": {
+        "social": {
+          "duration": "00:03:34"
+        },
+        "entertainment": {
+          "duration": "00:42:16"
+        },
+        "productivity": {
+          "duration": "01:15:54"
+        }
+      }
+    },
+    {
+      "date": "2025-01-27",
+      "day": "Monday",
+      "total_screen_time": "04:16:24",
+      "categories": {
+        "social": {
+          "duration": "02:04:06"
+        },
+        "entertainment": {
+          "duration": "00:28:26"
+        },
+        "productivity": {
+          "duration": "01:43:52"
+        }
+      }
+    },
+    {
+      "date": "2025-01-28",
+      "day": "Tuesday",
+      "total_screen_time": "04:46:34",
+      "categories": {
+        "social": {
+          "duration": "02:34:29"
+        },
+        "entertainment": {
+          "duration": "01:48:38"
+        },
+        "productivity": {
+          "duration": "00:23:27"
+        }
+      }
+    },
+    {
+      "date": "2025-01-29",
+      "day": "Wednesday",
+      "total_screen_time": "04:00:53",
+      "categories": {
+        "social": {
+          "duration": "02:33:20"
+        },
+        "entertainment": {
+          "duration": "00:45:59"
+        },
+        "productivity": {
+          "duration": "00:41:34"
+        }
+      }
+    },
+    {
+      "date": "2025-01-30",
+      "day": "Thursday",
+      "total_screen_time": "05:23:39",
+      "categories": {
+        "social": {
+          "duration": "03:15:03"
+        },
+        "entertainment": {
+          "duration": "01:27:58"
+        },
+        "productivity": {
+          "duration": "00:40:38"
+        }
+      }
+    },
+    {
+      "date": "2025-01-31",
+      "day": "Friday",
+      "total_screen_time": "01:51:21",
+      "categories": {
+        "social": {
+          "duration": "00:10:59"
+        },
+        "entertainment": {
+          "duration": "00:19:09"
+        },
+        "productivity": {
+          "duration": "01:21:13"
+        }
+      }
+    },
+    {
+      "date": "2025-02-01",
+      "day": "Saturday",
+      "total_screen_time": "04:18:12",
+      "categories": {
+        "social": {
+          "duration": "02:26:42"
+        },
+        "entertainment": {
+          "duration": "00:06:42"
+        },
+        "productivity": {
+          "duration": "01:44:48"
+        }
+      }
+    },
+    {
+      "date": "2025-02-02",
+      "day": "Sunday",
+      "total_screen_time": "01:08:50",
+      "categories": {
+        "social": {
+          "duration": "00:14:23"
+        },
+        "entertainment": {
+          "duration": "00:26:42"
+        },
+        "productivity": {
+          "duration": "00:27:45"
+        }
+      }
+    },
+    {
+      "date": "2025-02-03",
+      "day": "Monday",
+      "total_screen_time": "05:13:16",
+      "categories": {
+        "social": {
+          "duration": "03:06:41"
+        },
+        "entertainment": {
+          "duration": "00:59:51"
+        },
+        "productivity": {
+          "duration": "01:06:44"
+        }
+      }
+    },
+    {
+      "date": "2025-02-04",
+      "day": "Tuesday",
+      "total_screen_time": "04:50:39",
+      "categories": {
+        "social": {
+          "duration": "02:52:16"
+        },
+        "entertainment": {
+          "duration": "00:23:31"
+        },
+        "productivity": {
+          "duration": "01:34:52"
+        }
+      }
+    },
+    {
+      "date": "2025-02-05",
+      "day": "Wednesday",
+      "total_screen_time": "03:37:13",
+      "categories": {
+        "social": {
+          "duration": "02:07:33"
+        },
+        "entertainment": {
+          "duration": "00:23:26"
+        },
+        "productivity": {
+          "duration": "01:06:14"
+        }
+      }
+    },
+    {
+      "date": "2025-02-06",
+      "day": "Thursday",
+      "total_screen_time": "05:33:58",
+      "categories": {
+        "social": {
+          "duration": "02:15:14"
+        },
+        "entertainment": {
+          "duration": "01:21:24"
+        },
+        "productivity": {
+          "duration": "01:57:20"
+        }
+      }
+    },
+    {
+      "date": "2025-02-07",
+      "day": "Friday",
+      "total_screen_time": "05:33:38",
+      "categories": {
+        "social": {
+          "duration": "03:31:32"
+        },
+        "entertainment": {
+          "duration": "00:15:48"
+        },
+        "productivity": {
+          "duration": "01:46:18"
+        }
+      }
+    },
+    {
+      "date": "2025-02-08",
+      "day": "Saturday",
+      "total_screen_time": "03:22:36",
+      "categories": {
+        "social": {
+          "duration": "00:11:38"
+        },
+        "entertainment": {
+          "duration": "01:30:23"
+        },
+        "productivity": {
+          "duration": "01:40:35"
+        }
+      }
+    },
+    {
+      "date": "2025-02-09",
+      "day": "Sunday",
+      "total_screen_time": "05:09:16",
+      "categories": {
+        "social": {
+          "duration": "03:06:14"
+        },
+        "entertainment": {
+          "duration": "01:34:54"
+        },
+        "productivity": {
+          "duration": "00:28:08"
+        }
+      }
+    },
+    {
+      "date": "2025-02-10",
+      "day": "Monday",
+      "total_screen_time": "04:31:32",
+      "categories": {
+        "social": {
+          "duration": "02:44:26"
+        },
+        "entertainment": {
+          "duration": "00:09:29"
+        },
+        "productivity": {
+          "duration": "01:37:37"
+        }
+      }
+    },
+    {
+      "date": "2025-02-11",
+      "day": "Tuesday",
+      "total_screen_time": "03:33:21",
+      "categories": {
+        "social": {
+          "duration": "01:31:50"
+        },
+        "entertainment": {
+          "duration": "00:12:44"
+        },
+        "productivity": {
+          "duration": "01:48:47"
+        }
+      }
+    },
+    {
+      "date": "2025-02-12",
+      "day": "Wednesday",
+      "total_screen_time": "05:10:28",
+      "categories": {
+        "social": {
+          "duration": "02:57:00"
+        },
+        "entertainment": {
+          "duration": "00:13:47"
+        },
+        "productivity": {
+          "duration": "01:59:41"
+        }
+      }
+    },
+    {
+      "date": "2025-02-13",
+      "day": "Thursday",
+      "total_screen_time": "03:33:27",
+      "categories": {
+        "social": {
+          "duration": "02:53:13"
+        },
+        "entertainment": {
+          "duration": "00:33:33"
+        },
+        "productivity": {
+          "duration": "00:06:41"
+        }
+      }
+    },
+    {
+      "date": "2025-02-14",
+      "day": "Friday",
+      "total_screen_time": "05:47:08",
+      "categories": {
+        "social": {
+          "duration": "03:50:31"
+        },
+        "entertainment": {
+          "duration": "01:18:37"
+        },
+        "productivity": {
+          "duration": "00:38:00"
+        }
+      }
+    },
+    {
+      "date": "2025-02-15",
+      "day": "Saturday",
+      "total_screen_time": "05:17:35",
+      "categories": {
+        "social": {
+          "duration": "02:47:42"
+        },
+        "entertainment": {
+          "duration": "00:47:54"
+        },
+        "productivity": {
+          "duration": "01:41:59"
+        }
+      }
+    },
+    {
+      "date": "2025-02-16",
+      "day": "Sunday",
+      "total_screen_time": "03:28:46",
+      "categories": {
+        "social": {
+          "duration": "01:01:33"
+        },
+        "entertainment": {
+          "duration": "00:34:58"
+        },
+        "productivity": {
+          "duration": "01:52:15"
+        }
+      }
+    },
+    {
+      "date": "2025-02-17",
+      "day": "Monday",
+      "total_screen_time": "05:08:10",
+      "categories": {
+        "social": {
+          "duration": "02:21:28"
+        },
+        "entertainment": {
+          "duration": "00:50:36"
+        },
+        "productivity": {
+          "duration": "01:56:06"
+        }
+      }
+    },
+    {
+      "date": "2025-02-18",
+      "day": "Tuesday",
+      "total_screen_time": "05:32:06",
+      "categories": {
+        "social": {
+          "duration": "02:53:34"
+        },
+        "entertainment": {
+          "duration": "01:19:18"
+        },
+        "productivity": {
+          "duration": "01:19:14"
+        }
+      }
+    },
+    {
+      "date": "2025-02-19",
+      "day": "Wednesday",
+      "total_screen_time": "03:19:39",
+      "categories": {
+        "social": {
+          "duration": "02:26:18"
+        },
+        "entertainment": {
+          "duration": "00:22:52"
+        },
+        "productivity": {
+          "duration": "00:30:29"
+        }
+      }
+    },
+    {
+      "date": "2025-02-20",
+      "day": "Thursday",
+      "total_screen_time": "06:26:44",
+      "categories": {
+        "social": {
+          "duration": "02:58:30"
+        },
+        "entertainment": {
+          "duration": "01:38:55"
+        },
+        "productivity": {
+          "duration": "01:49:19"
+        }
+      }
+    },
+    {
+      "date": "2025-02-21",
+      "day": "Friday",
+      "total_screen_time": "03:57:39",
+      "categories": {
+        "social": {
+          "duration": "03:10:45"
+        },
+        "entertainment": {
+          "duration": "00:13:08"
+        },
+        "productivity": {
+          "duration": "00:33:46"
+        }
+      }
+    },
+    {
+      "date": "2025-02-22",
+      "day": "Saturday",
+      "total_screen_time": "04:01:59",
+      "categories": {
+        "social": {
+          "duration": "03:12:16"
+        },
+        "entertainment": {
+          "duration": "00:09:42"
+        },
+        "productivity": {
+          "duration": "00:40:01"
+        }
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "day": "Sunday",
+      "total_screen_time": "04:20:37",
+      "categories": {
+        "social": {
+          "duration": "01:18:29"
+        },
+        "entertainment": {
+          "duration": "01:08:27"
+        },
+        "productivity": {
+          "duration": "01:53:41"
+        }
+      }
+    },
+    {
+      "date": "2025-02-24",
+      "day": "Monday",
+      "total_screen_time": "03:06:13",
+      "categories": {
+        "social": {
+          "duration": "01:23:34"
+        },
+        "entertainment": {
+          "duration": "00:35:56"
+        },
+        "productivity": {
+          "duration": "01:06:43"
+        }
+      }
+    },
+    {
+      "date": "2025-02-25",
+      "day": "Tuesday",
+      "total_screen_time": "04:03:04",
+      "categories": {
+        "social": {
+          "duration": "02:03:01"
+        },
+        "entertainment": {
+          "duration": "00:27:10"
+        },
+        "productivity": {
+          "duration": "01:32:53"
+        }
+      }
+    },
+    {
+      "date": "2025-02-26",
+      "day": "Wednesday",
+      "total_screen_time": "03:24:16",
+      "categories": {
+        "social": {
+          "duration": "00:49:42"
+        },
+        "entertainment": {
+          "duration": "01:55:58"
+        },
+        "productivity": {
+          "duration": "00:38:36"
+        }
+      }
+    },
+    {
+      "date": "2025-02-27",
+      "day": "Thursday",
+      "total_screen_time": "04:31:00",
+      "categories": {
+        "social": {
+          "duration": "03:05:06"
+        },
+        "entertainment": {
+          "duration": "00:24:07"
+        },
+        "productivity": {
+          "duration": "01:01:47"
+        }
+      }
+    },
+    {
+      "date": "2025-02-28",
+      "day": "Friday",
+      "total_screen_time": "04:21:12",
+      "categories": {
+        "social": {
+          "duration": "01:32:46"
+        },
+        "entertainment": {
+          "duration": "01:01:14"
+        },
+        "productivity": {
+          "duration": "01:47:12"
+        }
+      }
+    },
+    {
+      "date": "2025-03-01",
+      "day": "Saturday",
+      "total_screen_time": "05:28:56",
+      "categories": {
+        "social": {
+          "duration": "03:14:58"
+        },
+        "entertainment": {
+          "duration": "00:32:13"
+        },
+        "productivity": {
+          "duration": "01:41:45"
+        }
+      }
+    },
+    {
+      "date": "2025-03-02",
+      "day": "Sunday",
+      "total_screen_time": "06:03:58",
+      "categories": {
+        "social": {
+          "duration": "03:31:21"
+        },
+        "entertainment": {
+          "duration": "00:42:01"
+        },
+        "productivity": {
+          "duration": "01:50:36"
+        }
+      }
+    },
+    {
+      "date": "2025-03-03",
+      "day": "Monday",
+      "total_screen_time": "05:01:17",
+      "categories": {
+        "social": {
+          "duration": "03:24:39"
+        },
+        "entertainment": {
+          "duration": "00:10:18"
+        },
+        "productivity": {
+          "duration": "01:26:20"
+        }
+      }
+    },
+    {
+      "date": "2025-03-04",
+      "day": "Tuesday",
+      "total_screen_time": "05:26:15",
+      "categories": {
+        "social": {
+          "duration": "03:43:42"
+        },
+        "entertainment": {
+          "duration": "01:35:46"
+        },
+        "productivity": {
+          "duration": "00:06:47"
+        }
+      }
+    },
+    {
+      "date": "2025-03-05",
+      "day": "Wednesday",
+      "total_screen_time": "02:03:19",
+      "categories": {
+        "social": {
+          "duration": "01:16:07"
+        },
+        "entertainment": {
+          "duration": "00:05:11"
+        },
+        "productivity": {
+          "duration": "00:42:01"
+        }
+      }
+    },
+    {
+      "date": "2025-03-06",
+      "day": "Thursday",
+      "total_screen_time": "04:42:51",
+      "categories": {
+        "social": {
+          "duration": "03:23:11"
+        },
+        "entertainment": {
+          "duration": "00:17:46"
+        },
+        "productivity": {
+          "duration": "01:01:54"
+        }
+      }
+    },
+    {
+      "date": "2025-03-07",
+      "day": "Friday",
+      "total_screen_time": "04:50:49",
+      "categories": {
+        "social": {
+          "duration": "03:46:49"
+        },
+        "entertainment": {
+          "duration": "00:00:03"
+        },
+        "productivity": {
+          "duration": "01:03:57"
+        }
+      }
+    },
+    {
+      "date": "2025-03-08",
+      "day": "Saturday",
+      "total_screen_time": "07:10:33",
+      "categories": {
+        "social": {
+          "duration": "03:56:41"
+        },
+        "entertainment": {
+          "duration": "01:59:55"
+        },
+        "productivity": {
+          "duration": "01:13:57"
+        }
+      }
+    },
+    {
+      "date": "2025-03-09",
+      "day": "Sunday",
+      "total_screen_time": "02:37:45",
+      "categories": {
+        "social": {
+          "duration": "00:17:33"
+        },
+        "entertainment": {
+          "duration": "01:06:27"
+        },
+        "productivity": {
+          "duration": "01:13:45"
+        }
+      }
+    },
+    {
+      "date": "2025-03-10",
+      "day": "Monday",
+      "total_screen_time": "02:46:05",
+      "categories": {
+        "social": {
+          "duration": "02:08:05"
+        },
+        "entertainment": {
+          "duration": "00:35:28"
+        },
+        "productivity": {
+          "duration": "00:02:32"
+        }
+      }
+    },
+    {
+      "date": "2025-03-11",
+      "day": "Tuesday",
+      "total_screen_time": "04:00:38",
+      "categories": {
+        "social": {
+          "duration": "03:42:35"
+        },
+        "entertainment": {
+          "duration": "00:01:57"
+        },
+        "productivity": {
+          "duration": "00:16:06"
+        }
+      }
+    },
+    {
+      "date": "2025-03-12",
+      "day": "Wednesday",
+      "total_screen_time": "05:53:08",
+      "categories": {
+        "social": {
+          "duration": "02:11:02"
+        },
+        "entertainment": {
+          "duration": "01:47:20"
+        },
+        "productivity": {
+          "duration": "01:54:46"
+        }
+      }
+    },
+    {
+      "date": "2025-03-13",
+      "day": "Thursday",
+      "total_screen_time": "04:33:52",
+      "categories": {
+        "social": {
+          "duration": "01:14:17"
+        },
+        "entertainment": {
+          "duration": "01:57:18"
+        },
+        "productivity": {
+          "duration": "01:22:17"
+        }
+      }
+    },
+    {
+      "date": "2025-03-14",
+      "day": "Friday",
+      "total_screen_time": "02:21:20",
+      "categories": {
+        "social": {
+          "duration": "00:31:36"
+        },
+        "entertainment": {
+          "duration": "00:02:36"
+        },
+        "productivity": {
+          "duration": "01:47:08"
+        }
+      }
+    },
+    {
+      "date": "2025-03-15",
+      "day": "Saturday",
+      "total_screen_time": "03:58:34",
+      "categories": {
+        "social": {
+          "duration": "00:49:10"
+        },
+        "entertainment": {
+          "duration": "01:26:02"
+        },
+        "productivity": {
+          "duration": "01:43:22"
+        }
+      }
+    },
+    {
+      "date": "2025-03-16",
+      "day": "Sunday",
+      "total_screen_time": "04:09:45",
+      "categories": {
+        "social": {
+          "duration": "01:00:16"
+        },
+        "entertainment": {
+          "duration": "01:58:57"
+        },
+        "productivity": {
+          "duration": "01:10:32"
+        }
+      }
+    },
+    {
+      "date": "2025-03-17",
+      "day": "Monday",
+      "total_screen_time": "05:51:46",
+      "categories": {
+        "social": {
+          "duration": "02:53:41"
+        },
+        "entertainment": {
+          "duration": "01:35:04"
+        },
+        "productivity": {
+          "duration": "01:23:01"
+        }
+      }
+    },
+    {
+      "date": "2025-03-18",
+      "day": "Tuesday",
+      "total_screen_time": "02:34:10",
+      "categories": {
+        "social": {
+          "duration": "00:46:42"
+        },
+        "entertainment": {
+          "duration": "01:41:36"
+        },
+        "productivity": {
+          "duration": "00:05:52"
+        }
+      }
+    },
+    {
+      "date": "2025-03-19",
+      "day": "Wednesday",
+      "total_screen_time": "05:54:49",
+      "categories": {
+        "social": {
+          "duration": "03:12:26"
+        },
+        "entertainment": {
+          "duration": "01:54:51"
+        },
+        "productivity": {
+          "duration": "00:47:32"
+        }
+      }
+    },
+    {
+      "date": "2025-03-20",
+      "day": "Thursday",
+      "total_screen_time": "05:30:40",
+      "categories": {
+        "social": {
+          "duration": "02:06:28"
+        },
+        "entertainment": {
+          "duration": "01:40:48"
+        },
+        "productivity": {
+          "duration": "01:43:24"
+        }
+      }
+    },
+    {
+      "date": "2025-03-21",
+      "day": "Friday",
+      "total_screen_time": "04:04:20",
+      "categories": {
+        "social": {
+          "duration": "00:46:52"
+        },
+        "entertainment": {
+          "duration": "01:33:28"
+        },
+        "productivity": {
+          "duration": "01:44:00"
+        }
+      }
+    },
+    {
+      "date": "2025-03-22",
+      "day": "Saturday",
+      "total_screen_time": "05:36:12",
+      "categories": {
+        "social": {
+          "duration": "03:07:59"
+        },
+        "entertainment": {
+          "duration": "01:06:28"
+        },
+        "productivity": {
+          "duration": "01:21:45"
+        }
+      }
+    },
+    {
+      "date": "2025-03-23",
+      "day": "Sunday",
+      "total_screen_time": "03:44:20",
+      "categories": {
+        "social": {
+          "duration": "01:45:46"
+        },
+        "entertainment": {
+          "duration": "01:21:55"
+        },
+        "productivity": {
+          "duration": "00:36:39"
+        }
+      }
+    },
+    {
+      "date": "2025-03-24",
+      "day": "Monday",
+      "total_screen_time": "02:53:41",
+      "categories": {
+        "social": {
+          "duration": "00:02:10"
+        },
+        "entertainment": {
+          "duration": "01:46:30"
+        },
+        "productivity": {
+          "duration": "01:05:01"
+        }
+      }
+    },
+    {
+      "date": "2025-03-25",
+      "day": "Tuesday",
+      "total_screen_time": "04:38:54",
+      "categories": {
+        "social": {
+          "duration": "01:28:15"
+        },
+        "entertainment": {
+          "duration": "01:55:22"
+        },
+        "productivity": {
+          "duration": "01:15:17"
+        }
+      }
+    },
+    {
+      "date": "2025-03-26",
+      "day": "Wednesday",
+      "total_screen_time": "04:25:48",
+      "categories": {
+        "social": {
+          "duration": "01:53:53"
+        },
+        "entertainment": {
+          "duration": "01:47:44"
+        },
+        "productivity": {
+          "duration": "00:44:11"
+        }
+      }
+    },
+    {
+      "date": "2025-03-27",
+      "day": "Thursday",
+      "total_screen_time": "02:57:55",
+      "categories": {
+        "social": {
+          "duration": "02:02:03"
+        },
+        "entertainment": {
+          "duration": "00:18:40"
+        },
+        "productivity": {
+          "duration": "00:37:12"
+        }
+      }
+    },
+    {
+      "date": "2025-03-28",
+      "day": "Friday",
+      "total_screen_time": "02:25:25",
+      "categories": {
+        "social": {
+          "duration": "00:49:07"
+        },
+        "entertainment": {
+          "duration": "00:32:45"
+        },
+        "productivity": {
+          "duration": "01:03:33"
+        }
+      }
+    },
+    {
+      "date": "2025-03-29",
+      "day": "Saturday",
+      "total_screen_time": "03:07:00",
+      "categories": {
+        "social": {
+          "duration": "00:53:30"
+        },
+        "entertainment": {
+          "duration": "00:42:10"
+        },
+        "productivity": {
+          "duration": "01:31:20"
+        }
+      }
+    },
+    {
+      "date": "2025-03-30",
+      "day": "Sunday",
+      "total_screen_time": "03:21:27",
+      "categories": {
+        "social": {
+          "duration": "02:30:26"
+        },
+        "entertainment": {
+          "duration": "00:25:03"
+        },
+        "productivity": {
+          "duration": "00:25:58"
+        }
+      }
+    },
+    {
+      "date": "2025-03-31",
+      "day": "Monday",
+      "total_screen_time": "05:28:20",
+      "categories": {
+        "social": {
+          "duration": "02:57:01"
+        },
+        "entertainment": {
+          "duration": "01:51:23"
+        },
+        "productivity": {
+          "duration": "00:39:56"
+        }
+      }
+    },
+    {
+      "date": "2025-04-01",
+      "day": "Tuesday",
+      "total_screen_time": "03:08:06",
+      "categories": {
+        "social": {
+          "duration": "00:12:41"
+        },
+        "entertainment": {
+          "duration": "01:11:05"
+        },
+        "productivity": {
+          "duration": "01:44:20"
+        }
+      }
+    },
+    {
+      "date": "2025-04-02",
+      "day": "Wednesday",
+      "total_screen_time": "04:12:25",
+      "categories": {
+        "social": {
+          "duration": "01:25:49"
+        },
+        "entertainment": {
+          "duration": "00:59:40"
+        },
+        "productivity": {
+          "duration": "01:46:56"
+        }
+      }
+    },
+    {
+      "date": "2025-04-03",
+      "day": "Thursday",
+      "total_screen_time": "04:01:24",
+      "categories": {
+        "social": {
+          "duration": "03:35:47"
+        },
+        "entertainment": {
+          "duration": "00:07:37"
+        },
+        "productivity": {
+          "duration": "00:18:00"
+        }
+      }
+    },
+    {
+      "date": "2025-04-04",
+      "day": "Friday",
+      "total_screen_time": "02:55:04",
+      "categories": {
+        "social": {
+          "duration": "00:16:16"
+        },
+        "entertainment": {
+          "duration": "01:46:05"
+        },
+        "productivity": {
+          "duration": "00:52:43"
+        }
+      }
+    },
+    {
+      "date": "2025-04-05",
+      "day": "Saturday",
+      "total_screen_time": "02:19:15",
+      "categories": {
+        "social": {
+          "duration": "01:01:06"
+        },
+        "entertainment": {
+          "duration": "00:33:29"
+        },
+        "productivity": {
+          "duration": "00:44:40"
+        }
+      }
+    },
+    {
+      "date": "2025-04-06",
+      "day": "Sunday",
+      "total_screen_time": "04:02:51",
+      "categories": {
+        "social": {
+          "duration": "01:21:11"
+        },
+        "entertainment": {
+          "duration": "01:55:30"
+        },
+        "productivity": {
+          "duration": "00:46:10"
+        }
+      }
+    },
+    {
+      "date": "2025-04-07",
+      "day": "Monday",
+      "total_screen_time": "01:31:57",
+      "categories": {
+        "social": {
+          "duration": "00:55:47"
+        },
+        "entertainment": {
+          "duration": "00:09:53"
+        },
+        "productivity": {
+          "duration": "00:26:17"
+        }
+      }
+    },
+    {
+      "date": "2025-04-08",
+      "day": "Tuesday",
+      "total_screen_time": "02:49:47",
+      "categories": {
+        "social": {
+          "duration": "01:26:08"
+        },
+        "entertainment": {
+          "duration": "00:25:03"
+        },
+        "productivity": {
+          "duration": "00:58:36"
+        }
+      }
+    },
+    {
+      "date": "2025-04-09",
+      "day": "Wednesday",
+      "total_screen_time": "04:04:26",
+      "categories": {
+        "social": {
+          "duration": "02:16:35"
+        },
+        "entertainment": {
+          "duration": "01:43:45"
+        },
+        "productivity": {
+          "duration": "00:04:06"
+        }
+      }
+    },
+    {
+      "date": "2025-04-10",
+      "day": "Thursday",
+      "total_screen_time": "03:33:22",
+      "categories": {
+        "social": {
+          "duration": "02:09:08"
+        },
+        "entertainment": {
+          "duration": "00:45:47"
+        },
+        "productivity": {
+          "duration": "00:38:27"
+        }
+      }
+    },
+    {
+      "date": "2025-04-11",
+      "day": "Friday",
+      "total_screen_time": "01:24:00",
+      "categories": {
+        "social": {
+          "duration": "00:04:28"
+        },
+        "entertainment": {
+          "duration": "01:19:05"
+        },
+        "productivity": {
+          "duration": "00:00:27"
+        }
+      }
+    },
+    {
+      "date": "2025-04-12",
+      "day": "Saturday",
+      "total_screen_time": "05:53:11",
+      "categories": {
+        "social": {
+          "duration": "03:34:58"
+        },
+        "entertainment": {
+          "duration": "01:42:11"
+        },
+        "productivity": {
+          "duration": "00:36:02"
+        }
+      }
+    },
+    {
+      "date": "2025-04-13",
+      "day": "Sunday",
+      "total_screen_time": "04:20:55",
+      "categories": {
+        "social": {
+          "duration": "03:12:37"
+        },
+        "entertainment": {
+          "duration": "00:26:23"
+        },
+        "productivity": {
+          "duration": "00:41:55"
+        }
+      }
+    },
+    {
+      "date": "2025-04-14",
+      "day": "Monday",
+      "total_screen_time": "05:19:53",
+      "categories": {
+        "social": {
+          "duration": "03:24:10"
+        },
+        "entertainment": {
+          "duration": "00:20:27"
+        },
+        "productivity": {
+          "duration": "01:35:16"
+        }
+      }
+    },
+    {
+      "date": "2025-04-15",
+      "day": "Tuesday",
+      "total_screen_time": "03:18:30",
+      "categories": {
+        "social": {
+          "duration": "00:04:10"
+        },
+        "entertainment": {
+          "duration": "01:56:22"
+        },
+        "productivity": {
+          "duration": "01:17:58"
+        }
+      }
+    },
+    {
+      "date": "2025-04-16",
+      "day": "Wednesday",
+      "total_screen_time": "01:33:29",
+      "categories": {
+        "social": {
+          "duration": "00:13:08"
+        },
+        "entertainment": {
+          "duration": "00:03:28"
+        },
+        "productivity": {
+          "duration": "01:16:53"
+        }
+      }
+    },
+    {
+      "date": "2025-04-17",
+      "day": "Thursday",
+      "total_screen_time": "03:55:47",
+      "categories": {
+        "social": {
+          "duration": "02:03:28"
+        },
+        "entertainment": {
+          "duration": "00:39:14"
+        },
+        "productivity": {
+          "duration": "01:13:05"
+        }
+      }
+    },
+    {
+      "date": "2025-04-18",
+      "day": "Friday",
+      "total_screen_time": "03:24:46",
+      "categories": {
+        "social": {
+          "duration": "00:53:11"
+        },
+        "entertainment": {
+          "duration": "01:20:36"
+        },
+        "productivity": {
+          "duration": "01:10:59"
+        }
+      }
+    },
+    {
+      "date": "2025-04-19",
+      "day": "Saturday",
+      "total_screen_time": "05:09:43",
+      "categories": {
+        "social": {
+          "duration": "03:04:25"
+        },
+        "entertainment": {
+          "duration": "01:37:49"
+        },
+        "productivity": {
+          "duration": "00:27:29"
+        }
+      }
+    },
+    {
+      "date": "2025-04-20",
+      "day": "Sunday",
+      "total_screen_time": "05:45:03",
+      "categories": {
+        "social": {
+          "duration": "03:12:27"
+        },
+        "entertainment": {
+          "duration": "01:20:18"
+        },
+        "productivity": {
+          "duration": "01:12:18"
+        }
+      }
+    },
+    {
+      "date": "2025-04-21",
+      "day": "Monday",
+      "total_screen_time": "04:08:52",
+      "categories": {
+        "social": {
+          "duration": "03:12:01"
+        },
+        "entertainment": {
+          "duration": "00:20:59"
+        },
+        "productivity": {
+          "duration": "00:35:52"
+        }
+      }
+    },
+    {
+      "date": "2025-04-22",
+      "day": "Tuesday",
+      "total_screen_time": "02:48:39",
+      "categories": {
+        "social": {
+          "duration": "02:20:41"
+        },
+        "entertainment": {
+          "duration": "00:16:51"
+        },
+        "productivity": {
+          "duration": "00:11:07"
+        }
+      }
+    },
+    {
+      "date": "2025-04-23",
+      "day": "Wednesday",
+      "total_screen_time": "04:51:16",
+      "categories": {
+        "social": {
+          "duration": "02:43:18"
+        },
+        "entertainment": {
+          "duration": "00:22:35"
+        },
+        "productivity": {
+          "duration": "01:45:23"
+        }
+      }
+    },
+    {
+      "date": "2025-04-24",
+      "day": "Thursday",
+      "total_screen_time": "02:37:50",
+      "categories": {
+        "social": {
+          "duration": "01:36:45"
+        },
+        "entertainment": {
+          "duration": "00:29:37"
+        },
+        "productivity": {
+          "duration": "00:31:28"
+        }
+      }
+    },
+    {
+      "date": "2025-04-25",
+      "day": "Friday",
+      "total_screen_time": "04:07:16",
+      "categories": {
+        "social": {
+          "duration": "01:25:35"
+        },
+        "entertainment": {
+          "duration": "00:43:09"
+        },
+        "productivity": {
+          "duration": "01:58:32"
+        }
+      }
+    },
+    {
+      "date": "2025-04-26",
+      "day": "Saturday",
+      "total_screen_time": "04:07:24",
+      "categories": {
+        "social": {
+          "duration": "01:29:42"
+        },
+        "entertainment": {
+          "duration": "00:56:17"
+        },
+        "productivity": {
+          "duration": "01:41:25"
+        }
+      }
+    },
+    {
+      "date": "2025-04-27",
+      "day": "Sunday",
+      "total_screen_time": "05:42:22",
+      "categories": {
+        "social": {
+          "duration": "03:15:08"
+        },
+        "entertainment": {
+          "duration": "01:39:43"
+        },
+        "productivity": {
+          "duration": "00:47:31"
+        }
+      }
+    },
+    {
+      "date": "2025-04-28",
+      "day": "Monday",
+      "total_screen_time": "04:26:52",
+      "categories": {
+        "social": {
+          "duration": "03:04:15"
+        },
+        "entertainment": {
+          "duration": "00:09:47"
+        },
+        "productivity": {
+          "duration": "01:12:50"
+        }
+      }
+    },
+    {
+      "date": "2025-04-29",
+      "day": "Tuesday",
+      "total_screen_time": "04:25:36",
+      "categories": {
+        "social": {
+          "duration": "01:40:18"
+        },
+        "entertainment": {
+          "duration": "01:01:55"
+        },
+        "productivity": {
+          "duration": "01:43:23"
+        }
+      }
+    },
+    {
+      "date": "2025-04-30",
+      "day": "Wednesday",
+      "total_screen_time": "03:36:47",
+      "categories": {
+        "social": {
+          "duration": "01:58:08"
+        },
+        "entertainment": {
+          "duration": "00:44:53"
+        },
+        "productivity": {
+          "duration": "00:53:46"
+        }
+      }
+    },
+    {
+      "date": "2025-05-01",
+      "day": "Thursday",
+      "total_screen_time": "04:32:42",
+      "categories": {
+        "social": {
+          "duration": "02:34:09"
+        },
+        "entertainment": {
+          "duration": "00:35:05"
+        },
+        "productivity": {
+          "duration": "01:23:28"
+        }
+      }
+    },
+    {
+      "date": "2025-05-02",
+      "day": "Friday",
+      "total_screen_time": "06:38:07",
+      "categories": {
+        "social": {
+          "duration": "03:02:51"
+        },
+        "entertainment": {
+          "duration": "01:52:09"
+        },
+        "productivity": {
+          "duration": "01:43:07"
+        }
+      }
+    },
+    {
+      "date": "2025-05-03",
+      "day": "Saturday",
+      "total_screen_time": "06:49:11",
+      "categories": {
+        "social": {
+          "duration": "03:40:33"
+        },
+        "entertainment": {
+          "duration": "01:16:10"
+        },
+        "productivity": {
+          "duration": "01:52:28"
+        }
+      }
+    },
+    {
+      "date": "2025-05-04",
+      "day": "Sunday",
+      "total_screen_time": "03:02:49",
+      "categories": {
+        "social": {
+          "duration": "01:50:11"
+        },
+        "entertainment": {
+          "duration": "00:22:13"
+        },
+        "productivity": {
+          "duration": "00:50:25"
+        }
+      }
+    },
+    {
+      "date": "2025-05-05",
+      "day": "Monday",
+      "total_screen_time": "03:11:29",
+      "categories": {
+        "social": {
+          "duration": "01:55:55"
+        },
+        "entertainment": {
+          "duration": "00:07:17"
+        },
+        "productivity": {
+          "duration": "01:08:17"
+        }
+      }
+    },
+    {
+      "date": "2025-05-06",
+      "day": "Tuesday",
+      "total_screen_time": "04:47:23",
+      "categories": {
+        "social": {
+          "duration": "01:41:34"
+        },
+        "entertainment": {
+          "duration": "01:27:52"
+        },
+        "productivity": {
+          "duration": "01:37:57"
+        }
+      }
+    },
+    {
+      "date": "2025-05-07",
+      "day": "Wednesday",
+      "total_screen_time": "05:17:35",
+      "categories": {
+        "social": {
+          "duration": "03:08:54"
+        },
+        "entertainment": {
+          "duration": "01:30:42"
+        },
+        "productivity": {
+          "duration": "00:37:59"
+        }
+      }
+    },
+    {
+      "date": "2025-05-08",
+      "day": "Thursday",
+      "total_screen_time": "06:39:02",
+      "categories": {
+        "social": {
+          "duration": "03:12:21"
+        },
+        "entertainment": {
+          "duration": "01:54:10"
+        },
+        "productivity": {
+          "duration": "01:32:31"
+        }
+      }
+    },
+    {
+      "date": "2025-05-09",
+      "day": "Friday",
+      "total_screen_time": "02:50:31",
+      "categories": {
+        "social": {
+          "duration": "02:28:18"
+        },
+        "entertainment": {
+          "duration": "00:20:13"
+        },
+        "productivity": {
+          "duration": "00:02:00"
+        }
+      }
+    },
+    {
+      "date": "2025-05-10",
+      "day": "Saturday",
+      "total_screen_time": "06:26:23",
+      "categories": {
+        "social": {
+          "duration": "03:21:59"
+        },
+        "entertainment": {
+          "duration": "01:11:09"
+        },
+        "productivity": {
+          "duration": "01:53:15"
+        }
+      }
+    },
+    {
+      "date": "2025-05-11",
+      "day": "Sunday",
+      "total_screen_time": "04:14:59",
+      "categories": {
+        "social": {
+          "duration": "00:27:15"
+        },
+        "entertainment": {
+          "duration": "01:56:48"
+        },
+        "productivity": {
+          "duration": "01:50:56"
+        }
+      }
+    },
+    {
+      "date": "2025-05-12",
+      "day": "Monday",
+      "total_screen_time": "06:37:24",
+      "categories": {
+        "social": {
+          "duration": "03:57:42"
+        },
+        "entertainment": {
+          "duration": "00:58:24"
+        },
+        "productivity": {
+          "duration": "01:41:18"
+        }
+      }
+    },
+    {
+      "date": "2025-05-13",
+      "day": "Tuesday",
+      "total_screen_time": "04:03:06",
+      "categories": {
+        "social": {
+          "duration": "01:02:29"
+        },
+        "entertainment": {
+          "duration": "01:06:33"
+        },
+        "productivity": {
+          "duration": "01:54:04"
+        }
+      }
+    },
+    {
+      "date": "2025-05-14",
+      "day": "Wednesday",
+      "total_screen_time": "02:21:40",
+      "categories": {
+        "social": {
+          "duration": "00:29:02"
+        },
+        "entertainment": {
+          "duration": "01:17:13"
+        },
+        "productivity": {
+          "duration": "00:35:25"
+        }
+      }
+    },
+    {
+      "date": "2025-05-15",
+      "day": "Thursday",
+      "total_screen_time": "02:06:48",
+      "categories": {
+        "social": {
+          "duration": "00:13:39"
+        },
+        "entertainment": {
+          "duration": "00:24:14"
+        },
+        "productivity": {
+          "duration": "01:28:55"
+        }
+      }
+    },
+    {
+      "date": "2025-05-16",
+      "day": "Friday",
+      "total_screen_time": "05:36:18",
+      "categories": {
+        "social": {
+          "duration": "02:51:02"
+        },
+        "entertainment": {
+          "duration": "01:00:37"
+        },
+        "productivity": {
+          "duration": "01:44:39"
+        }
+      }
+    },
+    {
+      "date": "2025-05-17",
+      "day": "Saturday",
+      "total_screen_time": "05:26:55",
+      "categories": {
+        "social": {
+          "duration": "01:57:47"
+        },
+        "entertainment": {
+          "duration": "01:45:31"
+        },
+        "productivity": {
+          "duration": "01:43:37"
+        }
+      }
+    },
+    {
+      "date": "2025-05-18",
+      "day": "Sunday",
+      "total_screen_time": "03:59:34",
+      "categories": {
+        "social": {
+          "duration": "01:21:32"
+        },
+        "entertainment": {
+          "duration": "01:53:11"
+        },
+        "productivity": {
+          "duration": "00:44:51"
+        }
+      }
+    },
+    {
+      "date": "2025-05-19",
+      "day": "Monday",
+      "total_screen_time": "02:55:09",
+      "categories": {
+        "social": {
+          "duration": "02:16:32"
+        },
+        "entertainment": {
+          "duration": "00:33:49"
+        },
+        "productivity": {
+          "duration": "00:04:48"
+        }
+      }
+    },
+    {
+      "date": "2025-05-20",
+      "day": "Tuesday",
+      "total_screen_time": "04:42:41",
+      "categories": {
+        "social": {
+          "duration": "03:09:17"
+        },
+        "entertainment": {
+          "duration": "01:27:45"
+        },
+        "productivity": {
+          "duration": "00:05:39"
+        }
+      }
+    },
+    {
+      "date": "2025-05-21",
+      "day": "Wednesday",
+      "total_screen_time": "05:35:15",
+      "categories": {
+        "social": {
+          "duration": "03:58:35"
+        },
+        "entertainment": {
+          "duration": "01:20:48"
+        },
+        "productivity": {
+          "duration": "00:15:52"
+        }
+      }
+    },
+    {
+      "date": "2025-05-22",
+      "day": "Thursday",
+      "total_screen_time": "05:06:25",
+      "categories": {
+        "social": {
+          "duration": "03:42:46"
+        },
+        "entertainment": {
+          "duration": "00:16:14"
+        },
+        "productivity": {
+          "duration": "01:07:25"
+        }
+      }
+    },
+    {
+      "date": "2025-05-23",
+      "day": "Friday",
+      "total_screen_time": "03:16:32",
+      "categories": {
+        "social": {
+          "duration": "01:30:00"
+        },
+        "entertainment": {
+          "duration": "00:25:09"
+        },
+        "productivity": {
+          "duration": "01:21:23"
+        }
+      }
+    },
+    {
+      "date": "2025-05-24",
+      "day": "Saturday",
+      "total_screen_time": "05:29:33",
+      "categories": {
+        "social": {
+          "duration": "03:05:54"
+        },
+        "entertainment": {
+          "duration": "00:58:26"
+        },
+        "productivity": {
+          "duration": "01:25:13"
+        }
+      }
+    },
+    {
+      "date": "2025-05-25",
+      "day": "Sunday",
+      "total_screen_time": "05:28:34",
+      "categories": {
+        "social": {
+          "duration": "01:50:43"
+        },
+        "entertainment": {
+          "duration": "01:39:55"
+        },
+        "productivity": {
+          "duration": "01:57:56"
+        }
+      }
+    },
+    {
+      "date": "2025-05-26",
+      "day": "Monday",
+      "total_screen_time": "03:06:26",
+      "categories": {
+        "social": {
+          "duration": "00:27:26"
+        },
+        "entertainment": {
+          "duration": "01:59:17"
+        },
+        "productivity": {
+          "duration": "00:39:43"
+        }
+      }
+    },
+    {
+      "date": "2025-05-27",
+      "day": "Tuesday",
+      "total_screen_time": "05:25:03",
+      "categories": {
+        "social": {
+          "duration": "02:52:07"
+        },
+        "entertainment": {
+          "duration": "01:36:11"
+        },
+        "productivity": {
+          "duration": "00:56:45"
+        }
+      }
+    },
+    {
+      "date": "2025-05-28",
+      "day": "Wednesday",
+      "total_screen_time": "05:20:53",
+      "categories": {
+        "social": {
+          "duration": "03:09:25"
+        },
+        "entertainment": {
+          "duration": "00:24:41"
+        },
+        "productivity": {
+          "duration": "01:46:47"
+        }
+      }
+    },
+    {
+      "date": "2025-05-29",
+      "day": "Thursday",
+      "total_screen_time": "02:47:23",
+      "categories": {
+        "social": {
+          "duration": "01:48:05"
+        },
+        "entertainment": {
+          "duration": "00:09:52"
+        },
+        "productivity": {
+          "duration": "00:49:26"
+        }
+      }
+    },
+    {
+      "date": "2025-05-30",
+      "day": "Friday",
+      "total_screen_time": "03:32:54",
+      "categories": {
+        "social": {
+          "duration": "01:02:51"
+        },
+        "entertainment": {
+          "duration": "01:54:00"
+        },
+        "productivity": {
+          "duration": "00:36:03"
+        }
+      }
+    },
+    {
+      "date": "2025-05-31",
+      "day": "Saturday",
+      "total_screen_time": "03:30:01",
+      "categories": {
+        "social": {
+          "duration": "01:01:03"
+        },
+        "entertainment": {
+          "duration": "00:56:11"
+        },
+        "productivity": {
+          "duration": "01:32:47"
+        }
+      }
+    },
+    {
+      "date": "2025-06-01",
+      "day": "Sunday",
+      "total_screen_time": "02:48:10",
+      "categories": {
+        "social": {
+          "duration": "01:42:44"
+        },
+        "entertainment": {
+          "duration": "00:07:48"
+        },
+        "productivity": {
+          "duration": "00:57:38"
+        }
+      }
+    },
+    {
+      "date": "2025-06-02",
+      "day": "Monday",
+      "total_screen_time": "01:19:47",
+      "categories": {
+        "social": {
+          "duration": "00:55:21"
+        },
+        "entertainment": {
+          "duration": "00:11:13"
+        },
+        "productivity": {
+          "duration": "00:13:13"
+        }
+      }
+    },
+    {
+      "date": "2025-06-03",
+      "day": "Tuesday",
+      "total_screen_time": "03:47:48",
+      "categories": {
+        "social": {
+          "duration": "00:51:38"
+        },
+        "entertainment": {
+          "duration": "01:39:46"
+        },
+        "productivity": {
+          "duration": "01:16:24"
+        }
+      }
+    },
+    {
+      "date": "2025-06-04",
+      "day": "Wednesday",
+      "total_screen_time": "01:54:54",
+      "categories": {
+        "social": {
+          "duration": "00:08:44"
+        },
+        "entertainment": {
+          "duration": "00:33:06"
+        },
+        "productivity": {
+          "duration": "01:13:04"
+        }
+      }
+    },
+    {
+      "date": "2025-06-05",
+      "day": "Thursday",
+      "total_screen_time": "03:02:04",
+      "categories": {
+        "social": {
+          "duration": "01:08:35"
+        },
+        "entertainment": {
+          "duration": "01:39:50"
+        },
+        "productivity": {
+          "duration": "00:13:39"
+        }
+      }
+    },
+    {
+      "date": "2025-06-06",
+      "day": "Friday",
+      "total_screen_time": "04:20:54",
+      "categories": {
+        "social": {
+          "duration": "02:31:03"
+        },
+        "entertainment": {
+          "duration": "00:54:38"
+        },
+        "productivity": {
+          "duration": "00:55:13"
+        }
+      }
+    },
+    {
+      "date": "2025-06-07",
+      "day": "Saturday",
+      "total_screen_time": "06:45:59",
+      "categories": {
+        "social": {
+          "duration": "03:08:59"
+        },
+        "entertainment": {
+          "duration": "01:47:28"
+        },
+        "productivity": {
+          "duration": "01:49:32"
+        }
+      }
+    },
+    {
+      "date": "2025-06-08",
+      "day": "Sunday",
+      "total_screen_time": "03:57:32",
+      "categories": {
+        "social": {
+          "duration": "02:41:54"
+        },
+        "entertainment": {
+          "duration": "01:11:41"
+        },
+        "productivity": {
+          "duration": "00:03:57"
+        }
+      }
+    },
+    {
+      "date": "2025-06-09",
+      "day": "Monday",
+      "total_screen_time": "03:25:31",
+      "categories": {
+        "social": {
+          "duration": "01:05:57"
+        },
+        "entertainment": {
+          "duration": "00:42:44"
+        },
+        "productivity": {
+          "duration": "01:36:50"
+        }
+      }
+    },
+    {
+      "date": "2025-06-10",
+      "day": "Tuesday",
+      "total_screen_time": "04:30:37",
+      "categories": {
+        "social": {
+          "duration": "02:48:25"
+        },
+        "entertainment": {
+          "duration": "00:05:26"
+        },
+        "productivity": {
+          "duration": "01:36:46"
+        }
+      }
+    },
+    {
+      "date": "2025-06-11",
+      "day": "Wednesday",
+      "total_screen_time": "04:53:44",
+      "categories": {
+        "social": {
+          "duration": "02:38:59"
+        },
+        "entertainment": {
+          "duration": "00:54:33"
+        },
+        "productivity": {
+          "duration": "01:20:12"
+        }
+      }
+    },
+    {
+      "date": "2025-06-12",
+      "day": "Thursday",
+      "total_screen_time": "02:14:47",
+      "categories": {
+        "social": {
+          "duration": "00:26:16"
+        },
+        "entertainment": {
+          "duration": "01:08:38"
+        },
+        "productivity": {
+          "duration": "00:39:53"
+        }
+      }
+    },
+    {
+      "date": "2025-06-13",
+      "day": "Friday",
+      "total_screen_time": "05:29:01",
+      "categories": {
+        "social": {
+          "duration": "03:53:16"
+        },
+        "entertainment": {
+          "duration": "01:09:34"
+        },
+        "productivity": {
+          "duration": "00:26:11"
+        }
+      }
+    },
+    {
+      "date": "2025-06-14",
+      "day": "Saturday",
+      "total_screen_time": "04:47:37",
+      "categories": {
+        "social": {
+          "duration": "03:37:58"
+        },
+        "entertainment": {
+          "duration": "00:55:11"
+        },
+        "productivity": {
+          "duration": "00:14:28"
+        }
+      }
+    },
+    {
+      "date": "2025-06-15",
+      "day": "Sunday",
+      "total_screen_time": "03:43:03",
+      "categories": {
+        "social": {
+          "duration": "01:17:00"
+        },
+        "entertainment": {
+          "duration": "00:29:07"
+        },
+        "productivity": {
+          "duration": "01:56:56"
+        }
+      }
+    },
+    {
+      "date": "2025-06-16",
+      "day": "Monday",
+      "total_screen_time": "04:55:14",
+      "categories": {
+        "social": {
+          "duration": "02:06:29"
+        },
+        "entertainment": {
+          "duration": "00:50:39"
+        },
+        "productivity": {
+          "duration": "01:58:06"
+        }
+      }
+    },
+    {
+      "date": "2025-06-17",
+      "day": "Tuesday",
+      "total_screen_time": "04:14:18",
+      "categories": {
+        "social": {
+          "duration": "02:56:06"
+        },
+        "entertainment": {
+          "duration": "00:19:14"
+        },
+        "productivity": {
+          "duration": "00:58:58"
+        }
+      }
+    },
+    {
+      "date": "2025-06-18",
+      "day": "Wednesday",
+      "total_screen_time": "03:31:24",
+      "categories": {
+        "social": {
+          "duration": "01:52:39"
+        },
+        "entertainment": {
+          "duration": "00:25:22"
+        },
+        "productivity": {
+          "duration": "01:13:23"
+        }
+      }
+    },
+    {
+      "date": "2025-06-19",
+      "day": "Thursday",
+      "total_screen_time": "03:35:41",
+      "categories": {
+        "social": {
+          "duration": "02:47:25"
+        },
+        "entertainment": {
+          "duration": "00:22:57"
+        },
+        "productivity": {
+          "duration": "00:25:19"
+        }
+      }
+    },
+    {
+      "date": "2025-06-20",
+      "day": "Friday",
+      "total_screen_time": "02:31:45",
+      "categories": {
+        "social": {
+          "duration": "00:47:42"
+        },
+        "entertainment": {
+          "duration": "01:16:10"
+        },
+        "productivity": {
+          "duration": "00:27:53"
+        }
+      }
+    },
+    {
+      "date": "2025-06-21",
+      "day": "Saturday",
+      "total_screen_time": "04:39:56",
+      "categories": {
+        "social": {
+          "duration": "02:16:24"
+        },
+        "entertainment": {
+          "duration": "00:37:57"
+        },
+        "productivity": {
+          "duration": "01:45:35"
+        }
+      }
+    },
+    {
+      "date": "2025-06-22",
+      "day": "Sunday",
+      "total_screen_time": "05:52:32",
+      "categories": {
+        "social": {
+          "duration": "03:40:23"
+        },
+        "entertainment": {
+          "duration": "01:33:01"
+        },
+        "productivity": {
+          "duration": "00:39:08"
+        }
+      }
+    },
+    {
+      "date": "2025-06-23",
+      "day": "Monday",
+      "total_screen_time": "04:31:10",
+      "categories": {
+        "social": {
+          "duration": "02:03:23"
+        },
+        "entertainment": {
+          "duration": "00:33:59"
+        },
+        "productivity": {
+          "duration": "01:53:48"
+        }
+      }
+    },
+    {
+      "date": "2025-06-24",
+      "day": "Tuesday",
+      "total_screen_time": "05:53:18",
+      "categories": {
+        "social": {
+          "duration": "03:18:52"
+        },
+        "entertainment": {
+          "duration": "01:16:35"
+        },
+        "productivity": {
+          "duration": "01:17:51"
+        }
+      }
     }
+  ],
+  "metadata": {
+    "data_collection_period": {
+      "start_date": "2024-06-06",
+      "end_date": "2025-06-24"
+    },
+    "categories": [
+      "Social",
+      "Entertainment",
+      "Productivity"
+    ]
+  }
 }
